@@ -1,0 +1,1680 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,Title_1,Director_347,United States,"April 05, 2008",2008,TV-MA,83 min,Thriller
+s2,Movie,Title_2,Director_120,United States,"January 03, 2008",2008,TV-14,97 min,Sci-Fi & Fantasy
+s3,Movie,Title_3,Director_113,United Kingdom,"December 18, 2008",2007,R,123 min,Thriller
+s4,Movie,Title_4,Director_175,Spain,"March 23, 2008",2007,TV-MA,124 min,Action & Adventure
+s5,Movie,Title_5,Director_184,Nigeria,"February 13, 2008",2007,TV-14,82 min,Drama
+s6,Movie,Title_6,Director_41,Spain,"September 04, 2008",2008,R,118 min,Thriller
+s7,Movie,Title_7,Director_361,Canada,"June 19, 2008",2006,PG,94 min,Comedy
+s8,Movie,Title_8,Director_444,United States,"February 28, 2008",2006,TV-MA,99 min,Drama
+s9,Movie,Title_9,Director_108,India,"March 12, 2008",2008,PG-13,115 min,Documentary
+s10,Movie,Title_10,Director_274,Australia,"October 21, 2008",2008,TV-PG,91 min,Comedy
+s11,Movie,Title_11,Director_113,India,"November 23, 2008",2008,TV-MA,141 min,Comedy
+s12,Movie,Title_12,Director_206,South Korea,"January 26, 2008",2007,TV-MA,110 min,Comedy
+s13,Movie,Title_13,Director_336,Brazil,"December 11, 2008",2007,TV-PG,97 min,Drama
+s14,Movie,Title_14,Director_382,Brazil,"May 05, 2008",2008,TV-14,101 min,Documentary
+s15,Movie,Title_15,Director_113,Japan,"October 13, 2008",2006,TV-14,116 min,Action & Adventure
+s16,Movie,Title_16,Director_82,United States,"February 05, 2008",2008,TV-MA,150 min,Action & Adventure
+s17,Movie,Title_17,Director_498,United States,"August 17, 2008",2008,TV-14,102 min,Documentary
+s18,Movie,Title_18,Director_394,United States,"November 18, 2008",2008,R,104 min,Animation
+s19,Movie,Title_19,Director_498,United States,"January 24, 2008",2008,TV-MA,103 min,Comedy
+s20,Movie,Title_20,Director_260,India,"November 10, 2008",2008,TV-MA,151 min,Romance
+s21,Movie,Title_21,Director_166,India,"September 01, 2008",2007,TV-MA,146 min,Drama
+s22,Movie,Title_22,Director_124,Australia,"May 08, 2008",2008,PG,77 min,Drama
+s23,Movie,Title_23,Director_393,United States,"February 25, 2008",2006,TV-14,138 min,Stand-Up Comedy
+s24,Movie,Title_24,Director_217,India,"May 17, 2008",2006,TV-14,147 min,Drama
+s25,Movie,Title_25,Director_344,South Korea,"December 10, 2008",2008,R,121 min,Stand-Up Comedy
+s26,Movie,Title_26,Director_174,Brazil,"April 08, 2008",2006,TV-14,78 min,Documentary
+s27,Movie,Title_27,Director_31,United States,"February 23, 2008",2006,TV-MA,150 min,Action & Adventure
+s28,Movie,Title_28,Director_343,United States,"September 08, 2008",2007,TV-14,105 min,Drama
+s29,Movie,Title_29,Director_125,United States,"October 19, 2008",2007,G,130 min,Drama
+s30,Movie,Title_30,Director_211,United States,"July 12, 2008",2007,TV-MA,124 min,Crime
+s31,Movie,Title_31,Director_207,United States,"November 04, 2008",2008,TV-PG,77 min,Animation
+s32,Movie,Title_32,Director_72,Mexico,"April 18, 2008",2007,TV-MA,127 min,Comedy
+s33,Movie,Title_33,Director_51,India,"February 15, 2008",2006,PG,140 min,Drama
+s34,Movie,Title_34,Director_86,United Kingdom,"February 25, 2008",2007,TV-MA,100 min,Thriller
+s35,Movie,Title_35,Director_2,United States,"January 06, 2008",2007,TV-14,118 min,Documentary
+s36,Movie,Title_36,Director_339,South Korea,"July 23, 2008",2008,TV-14,141 min,Comedy
+s37,Movie,Title_37,Director_32,United States,"January 19, 2008",2008,TV-MA,139 min,Documentary
+s38,Movie,Title_38,Director_492,United States,"September 06, 2008",2008,TV-14,77 min,Comedy
+s39,Movie,Title_39,Director_207,United States,"November 28, 2008",2006,TV-PG,100 min,Drama
+s40,Movie,Title_40,Director_215,United Kingdom,"January 20, 2008",2008,TV-PG,80 min,Stand-Up Comedy
+s41,Movie,Title_41,Director_123,United Kingdom,"April 22, 2008",2007,G,110 min,Action & Adventure
+s42,Movie,Title_42,Director_5,France,"June 25, 2008",2007,TV-MA,79 min,Documentary
+s43,Movie,Title_43,Director_136,United Kingdom,"September 07, 2008",2006,TV-MA,134 min,Thriller
+s44,Movie,Title_44,Director_225,Mexico,"June 10, 2008",2008,PG,90 min,Stand-Up Comedy
+s45,Movie,Title_45,Director_342,Canada,"November 17, 2008",2008,TV-G,71 min,Horror
+s46,Movie,Title_46,Director_456,France,"March 09, 2008",2006,G,84 min,Comedy
+s47,Movie,Title_47,Director_105,United States,"April 23, 2008",2008,TV-MA,113 min,Romance
+s48,Movie,Title_48,Director_217,United States,"January 03, 2008",2007,TV-14,151 min,Thriller
+s49,Movie,Title_49,Director_283,United States,"May 06, 2008",2008,TV-MA,126 min,Drama
+s50,Movie,Title_50,Director_19,United States,"December 05, 2008",2007,TV-MA,139 min,Documentary
+s51,Movie,Title_51,Director_461,United States,"May 12, 2008",2007,TV-MA,75 min,Action & Adventure
+s52,Movie,Title_52,Director_499,United States,"September 28, 2008",2008,TV-MA,122 min,Drama
+s53,Movie,Title_53,Director_452,Australia,"March 26, 2008",2007,TV-MA,92 min,Romance
+s54,Movie,Title_54,Director_443,Japan,"July 26, 2008",2008,TV-14,155 min,Drama
+s55,Movie,Title_55,Director_440,United States,"February 13, 2008",2007,PG-13,74 min,Crime
+s56,Movie,Title_56,Director_115,Spain,"May 27, 2008",2006,TV-14,99 min,Comedy
+s57,Movie,Title_57,Director_180,India,"February 25, 2008",2008,TV-MA,105 min,Thriller
+s58,Movie,Title_58,Director_450,France,"June 01, 2008",2007,PG-13,84 min,Action & Adventure
+s59,Movie,Title_59,Director_177,Turkey,"February 20, 2008",2008,TV-MA,125 min,Drama
+s60,Movie,Title_60,Director_98,India,"February 13, 2008",2007,TV-G,143 min,Romance
+s61,Movie,Title_61,Director_101,India,"September 22, 2008",2007,TV-14,155 min,Drama
+s62,TV Show,Title_62,Director_154,Nigeria,"October 11, 2008",2008,G,2 Seasons,Documentary
+s63,TV Show,Title_63,Director_341,India,"May 18, 2008",2007,TV-14,3 Season,Comedy
+s64,TV Show,Title_64,Director_108,Brazil,"May 13, 2008",2007,TV-PG,1 Season,Horror
+s65,TV Show,Title_65,Director_407,Canada,"August 15, 2008",2008,TV-14,4 Seasons,Romance
+s66,TV Show,Title_66,Director_488,United States,"November 20, 2008",2006,TV-14,6 Season,Drama
+s67,TV Show,Title_67,Director_313,United States,"January 02, 2008",2006,TV-MA,4 Seasons,Horror
+s68,TV Show,Title_68,Director_125,Mexico,"December 23, 2008",2006,TV-PG,7 Seasons,Documentary
+s69,TV Show,Title_69,Director_412,United States,"February 25, 2008",2008,R,7 Season,Thriller
+s70,TV Show,Title_70,Director_342,United States,"February 15, 2008",2008,TV-MA,3 Seasons,Action & Adventure
+s71,TV Show,Title_71,Director_281,United Kingdom,"August 20, 2008",2007,NR,7 Seasons,Reality TV
+s72,TV Show,Title_72,Director_142,Japan,"May 25, 2008",2008,TV-14,4 Seasons,Sci-Fi & Fantasy
+s73,TV Show,Title_73,Director_164,United States,"December 10, 2008",2008,TV-14,4 Season,Documentary
+s74,TV Show,Title_74,Director_209,United States,"March 23, 2008",2007,TV-14,4 Season,Drama
+s75,TV Show,Title_75,Director_392,India,"July 13, 2008",2008,TV-MA,1 Seasons,Action & Adventure
+s76,TV Show,Title_76,Director_377,United States,"July 28, 2008",2008,TV-14,7 Seasons,Documentary
+s77,TV Show,Title_77,Director_173,Brazil,"May 14, 2008",2008,TV-14,8 Season,Crime
+s78,TV Show,Title_78,Director_304,India,"August 05, 2008",2008,TV-MA,1 Seasons,Horror
+s79,TV Show,Title_79,Director_168,United States,"August 06, 2008",2006,TV-14,1 Season,Thriller
+s80,TV Show,Title_80,Director_42,United States,"May 25, 2008",2007,PG,7 Season,Documentary
+s81,TV Show,Title_81,Director_334,United Kingdom,"June 08, 2008",2006,TV-Y7,2 Seasons,Drama
+s82,Movie,Title_82,Director_123,Nigeria,"January 20, 2009",2007,TV-MA,89 min,Romance
+s83,Movie,Title_83,Director_393,United States,"August 23, 2009",2008,NR,102 min,Documentary
+s84,Movie,Title_84,Director_494,Canada,"February 25, 2009",2008,R,90 min,Drama
+s85,Movie,Title_85,Director_483,United States,"November 13, 2009",2009,TV-14,120 min,Drama
+s86,Movie,Title_86,Director_396,United Kingdom,"April 04, 2009",2008,PG-13,159 min,Drama
+s87,Movie,Title_87,Director_178,Canada,"October 26, 2009",2009,TV-MA,75 min,Animation
+s88,Movie,Title_88,Director_422,India,"June 01, 2009",2008,TV-14,123 min,Documentary
+s89,Movie,Title_89,Director_223,Turkey,"August 23, 2009",2007,TV-PG,89 min,Drama
+s90,Movie,Title_90,Director_239,Turkey,"September 25, 2009",2008,TV-MA,131 min,Romance
+s91,Movie,Title_91,Director_143,United Kingdom,"April 27, 2009",2008,TV-14,81 min,Crime
+s92,Movie,Title_92,Director_254,India,"July 11, 2009",2008,TV-PG,73 min,Comedy
+s93,Movie,Title_93,Director_360,United States,"June 09, 2009",2008,PG-13,146 min,Drama
+s94,Movie,Title_94,Director_251,United Kingdom,"April 24, 2009",2009,TV-MA,122 min,Action & Adventure
+s95,Movie,Title_95,Director_48,France,"August 15, 2009",2008,TV-PG,72 min,Romance
+s96,Movie,Title_96,Director_284,France,"October 12, 2009",2009,TV-14,130 min,Comedy
+s97,Movie,Title_97,Director_139,Italy,"June 23, 2009",2008,TV-PG,128 min,Comedy
+s98,Movie,Title_98,Director_487,United States,"February 24, 2009",2009,TV-MA,138 min,Comedy
+s99,Movie,Title_99,Director_306,United States,"December 19, 2009",2008,TV-14,137 min,Drama
+s100,Movie,Title_100,Director_8,Germany,"June 06, 2009",2009,TV-MA,108 min,Reality TV
+s101,Movie,Title_101,Director_484,United States,"September 10, 2009",2007,TV-G,159 min,Action & Adventure
+s102,Movie,Title_102,Director_241,South Korea,"January 19, 2009",2008,TV-MA,106 min,Thriller
+s103,Movie,Title_103,Director_206,United States,"August 04, 2009",2008,TV-MA,78 min,Documentary
+s104,Movie,Title_104,Director_486,Canada,"March 26, 2009",2008,TV-MA,142 min,Drama
+s105,Movie,Title_105,Director_405,United States,"July 20, 2009",2009,TV-PG,146 min,Drama
+s106,Movie,Title_106,Director_220,United Kingdom,"August 10, 2009",2008,TV-14,145 min,Comedy
+s107,Movie,Title_107,Director_321,United States,"February 25, 2009",2007,NR,96 min,Action & Adventure
+s108,Movie,Title_108,Director_2,United States,"September 03, 2009",2008,TV-MA,90 min,Comedy
+s109,Movie,Title_109,Director_145,United Kingdom,"April 10, 2009",2009,TV-MA,160 min,Documentary
+s110,Movie,Title_110,Director_302,United States,"May 26, 2009",2009,TV-MA,150 min,Animation
+s111,Movie,Title_111,Director_466,United States,"April 21, 2009",2008,TV-MA,89 min,Crime
+s112,Movie,Title_112,Director_472,United States,"May 20, 2009",2008,TV-MA,142 min,Crime
+s113,Movie,Title_113,Director_277,India,"July 09, 2009",2008,TV-14,134 min,Documentary
+s114,Movie,Title_114,Director_129,Canada,"December 11, 2009",2007,PG,147 min,Documentary
+s115,Movie,Title_115,Director_392,Turkey,"October 19, 2009",2009,PG-13,72 min,Drama
+s116,Movie,Title_116,Director_334,United Kingdom,"March 16, 2009",2008,R,136 min,Crime
+s117,Movie,Title_117,Director_497,United States,"November 27, 2009",2007,TV-PG,132 min,Sci-Fi & Fantasy
+s118,Movie,Title_118,Director_169,India,"February 28, 2009",2008,TV-14,90 min,Documentary
+s119,Movie,Title_119,Director_46,United States,"September 02, 2009",2008,NR,128 min,Horror
+s120,Movie,Title_120,Director_337,United States,"September 27, 2009",2009,PG-13,70 min,Comedy
+s121,Movie,Title_121,Director_321,United States,"October 25, 2009",2008,TV-14,133 min,Documentary
+s122,Movie,Title_122,Director_249,United States,"May 15, 2009",2007,TV-14,159 min,Romance
+s123,Movie,Title_123,Director_283,Canada,"December 06, 2009",2007,PG-13,109 min,Drama
+s124,Movie,Title_124,Director_332,United States,"February 15, 2009",2007,TV-Y7,85 min,Action & Adventure
+s125,Movie,Title_125,Director_242,Japan,"May 14, 2009",2007,TV-14,131 min,Action & Adventure
+s126,Movie,Title_126,Director_443,United States,"October 17, 2009",2007,TV-MA,87 min,Documentary
+s127,Movie,Title_127,Director_145,South Korea,"September 09, 2009",2009,TV-14,70 min,Comedy
+s128,Movie,Title_128,Director_229,United Kingdom,"August 28, 2009",2009,TV-Y7,89 min,Comedy
+s129,Movie,Title_129,Director_446,United States,"July 15, 2009",2007,R,111 min,Documentary
+s130,Movie,Title_130,Director_382,United States,"July 02, 2009",2008,TV-14,110 min,Reality TV
+s131,Movie,Title_131,Director_78,Spain,"November 26, 2009",2008,TV-14,153 min,Horror
+s132,Movie,Title_132,Director_448,United States,"June 28, 2009",2008,NR,82 min,International
+s133,Movie,Title_133,Director_497,Brazil,"March 14, 2009",2007,TV-MA,153 min,Drama
+s134,Movie,Title_134,Director_333,South Korea,"October 23, 2009",2007,TV-MA,120 min,Drama
+s135,Movie,Title_135,Director_368,Germany,"July 11, 2009",2008,PG,150 min,Animation
+s136,Movie,Title_136,Director_117,United States,"November 22, 2009",2009,TV-MA,106 min,Animation
+s137,Movie,Title_137,Director_228,Turkey,"December 28, 2009",2007,R,82 min,Drama
+s138,Movie,Title_138,Director_192,Brazil,"January 10, 2009",2008,TV-MA,115 min,Horror
+s139,Movie,Title_139,Director_41,United Kingdom,"March 06, 2009",2009,TV-PG,92 min,Drama
+s140,Movie,Title_140,Director_237,Canada,"October 05, 2009",2009,TV-MA,99 min,Animation
+s141,Movie,Title_141,Director_280,United States,"August 10, 2009",2007,TV-MA,156 min,Comedy
+s142,Movie,Title_142,Director_354,Nigeria,"May 21, 2009",2008,TV-G,124 min,Drama
+s143,Movie,Title_143,Director_196,United States,"August 04, 2009",2009,TV-Y7,100 min,Documentary
+s144,Movie,Title_144,Director_203,United States,"January 27, 2009",2008,R,154 min,Comedy
+s145,Movie,Title_145,Director_427,Mexico,"January 20, 2009",2008,PG-13,133 min,Drama
+s146,TV Show,Title_146,Director_348,United States,"April 21, 2009",2009,PG-13,4 Seasons,Romance
+s147,TV Show,Title_147,Director_226,France,"February 21, 2009",2007,TV-MA,1 Season,Romance
+s148,TV Show,Title_148,Director_68,Japan,"May 11, 2009",2009,TV-MA,7 Season,Action & Adventure
+s149,TV Show,Title_149,Director_423,India,"May 27, 2009",2008,TV-14,3 Season,Animation
+s150,TV Show,Title_150,Director_495,United States,"February 15, 2009",2007,PG,2 Season,International
+s151,TV Show,Title_151,Director_8,Japan,"September 12, 2009",2008,TV-G,2 Seasons,Animation
+s152,TV Show,Title_152,Director_482,India,"November 09, 2009",2008,R,7 Seasons,Action & Adventure
+s153,TV Show,Title_153,Director_326,United States,"September 11, 2009",2008,TV-MA,4 Seasons,Drama
+s154,TV Show,Title_154,Director_253,United States,"March 02, 2009",2007,TV-14,1 Season,Sci-Fi & Fantasy
+s155,TV Show,Title_155,Director_373,Brazil,"August 12, 2009",2007,TV-MA,7 Seasons,Drama
+s156,TV Show,Title_156,Director_190,France,"October 14, 2009",2007,PG-13,5 Season,Sci-Fi & Fantasy
+s157,TV Show,Title_157,Director_331,Nigeria,"February 22, 2009",2008,PG,6 Seasons,Documentary
+s158,TV Show,Title_158,Director_306,United States,"August 03, 2009",2007,NR,4 Seasons,Drama
+s159,TV Show,Title_159,Director_284,United States,"October 07, 2009",2007,TV-G,2 Seasons,Drama
+s160,TV Show,Title_160,Director_75,Spain,"March 26, 2009",2007,TV-MA,1 Season,Action & Adventure
+s161,TV Show,Title_161,Director_404,Spain,"January 05, 2009",2007,TV-MA,1 Season,Action & Adventure
+s162,TV Show,Title_162,Director_382,United States,"March 24, 2009",2007,TV-MA,7 Seasons,Action & Adventure
+s163,TV Show,Title_163,Director_23,South Korea,"February 15, 2009",2009,TV-14,4 Seasons,Documentary
+s164,TV Show,Title_164,Director_246,Mexico,"August 21, 2009",2008,TV-14,1 Season,Romance
+s165,TV Show,Title_165,Director_76,United States,"August 03, 2009",2007,R,2 Season,Documentary
+s166,TV Show,Title_166,Director_272,Canada,"December 11, 2009",2008,TV-PG,7 Seasons,Drama
+s167,TV Show,Title_167,Director_455,Canada,"December 04, 2009",2007,TV-MA,4 Seasons,Documentary
+s168,TV Show,Title_168,Director_341,Germany,"December 04, 2009",2008,TV-14,6 Seasons,Documentary
+s169,TV Show,Title_169,Director_50,United States,"February 03, 2009",2009,G,2 Season,Documentary
+s170,Movie,Title_170,Director_169,Spain,"October 18, 2010",2010,TV-PG,141 min,Romance
+s171,Movie,Title_171,Director_496,United States,"July 28, 2010",2009,TV-PG,76 min,Drama
+s172,Movie,Title_172,Director_247,United States,"April 05, 2010",2008,TV-PG,154 min,Thriller
+s173,Movie,Title_173,Director_294,United States,"February 25, 2010",2008,TV-PG,105 min,Animation
+s174,Movie,Title_174,Director_330,Germany,"October 20, 2010",2010,TV-G,156 min,Crime
+s175,Movie,Title_175,Director_140,Australia,"May 01, 2010",2010,PG-13,93 min,Drama
+s176,Movie,Title_176,Director_290,Australia,"March 28, 2010",2010,TV-14,88 min,Romance
+s177,Movie,Title_177,Director_111,United States,"January 03, 2010",2009,TV-PG,137 min,Documentary
+s178,Movie,Title_178,Director_306,United States,"December 11, 2010",2008,TV-14,142 min,Documentary
+s179,Movie,Title_179,Director_140,United States,"January 22, 2010",2009,R,80 min,Sci-Fi & Fantasy
+s180,Movie,Title_180,Director_59,India,"May 07, 2010",2009,TV-14,135 min,Thriller
+s181,Movie,Title_181,Director_158,United States,"August 17, 2010",2008,R,155 min,Documentary
+s182,Movie,Title_182,Director_393,Italy,"April 10, 2010",2008,TV-MA,97 min,Comedy
+s183,Movie,Title_183,Director_90,United States,"August 24, 2010",2008,TV-MA,125 min,Romance
+s184,Movie,Title_184,Director_37,Japan,"November 26, 2010",2009,TV-14,115 min,Documentary
+s185,Movie,Title_185,Director_295,United States,"February 28, 2010",2009,TV-MA,110 min,Animation
+s186,Movie,Title_186,Director_495,Japan,"February 13, 2010",2009,TV-14,72 min,Action & Adventure
+s187,Movie,Title_187,Director_224,Nigeria,"December 12, 2010",2008,TV-14,81 min,Drama
+s188,Movie,Title_188,Director_382,United Kingdom,"July 28, 2010",2009,TV-14,109 min,Comedy
+s189,Movie,Title_189,Director_262,South Korea,"November 04, 2010",2008,TV-MA,137 min,Comedy
+s190,Movie,Title_190,Director_121,United States,"November 27, 2010",2008,R,88 min,Sci-Fi & Fantasy
+s191,Movie,Title_191,Director_488,United States,"November 03, 2010",2010,TV-PG,92 min,Drama
+s192,Movie,Title_192,Director_330,South Korea,"August 22, 2010",2010,R,142 min,Action & Adventure
+s193,Movie,Title_193,Director_35,United States,"June 05, 2010",2009,TV-G,126 min,Reality TV
+s194,Movie,Title_194,Director_38,United States,"January 12, 2010",2009,TV-MA,134 min,Documentary
+s195,Movie,Title_195,Director_443,United States,"May 03, 2010",2008,TV-14,152 min,Documentary
+s196,Movie,Title_196,Director_231,India,"September 26, 2010",2010,TV-14,75 min,Thriller
+s197,Movie,Title_197,Director_53,United States,"March 02, 2010",2009,TV-14,127 min,Thriller
+s198,Movie,Title_198,Director_225,United States,"January 08, 2010",2009,TV-PG,160 min,Reality TV
+s199,Movie,Title_199,Director_397,Canada,"May 13, 2010",2009,TV-14,122 min,Action & Adventure
+s200,Movie,Title_200,Director_49,United States,"June 03, 2010",2010,TV-PG,112 min,Horror
+s201,Movie,Title_201,Director_171,United States,"November 20, 2010",2008,R,89 min,Horror
+s202,Movie,Title_202,Director_201,United States,"November 23, 2010",2008,TV-14,154 min,Action & Adventure
+s203,Movie,Title_203,Director_417,Australia,"July 21, 2010",2008,TV-14,112 min,Thriller
+s204,Movie,Title_204,Director_331,Germany,"November 17, 2010",2010,R,81 min,Horror
+s205,Movie,Title_205,Director_486,India,"March 07, 2010",2009,TV-14,113 min,Documentary
+s206,Movie,Title_206,Director_260,Italy,"May 28, 2010",2010,TV-MA,82 min,Drama
+s207,Movie,Title_207,Director_68,Mexico,"June 25, 2010",2010,TV-MA,149 min,Crime
+s208,Movie,Title_208,Director_370,United States,"October 26, 2010",2009,PG-13,91 min,Documentary
+s209,Movie,Title_209,Director_386,India,"August 20, 2010",2010,R,106 min,Drama
+s210,Movie,Title_210,Director_189,United States,"August 27, 2010",2010,TV-MA,94 min,Romance
+s211,Movie,Title_211,Director_258,Italy,"May 25, 2010",2010,TV-14,118 min,Stand-Up Comedy
+s212,Movie,Title_212,Director_27,United States,"October 05, 2010",2010,TV-MA,102 min,Documentary
+s213,Movie,Title_213,Director_436,India,"December 28, 2010",2008,G,136 min,Documentary
+s214,Movie,Title_214,Director_47,South Korea,"September 05, 2010",2008,TV-MA,125 min,Comedy
+s215,Movie,Title_215,Director_258,Mexico,"July 02, 2010",2009,G,120 min,Crime
+s216,Movie,Title_216,Director_430,Italy,"January 11, 2010",2010,TV-14,82 min,Comedy
+s217,Movie,Title_217,Director_357,South Korea,"May 27, 2010",2008,TV-MA,130 min,Thriller
+s218,Movie,Title_218,Director_111,India,"February 01, 2010",2008,TV-PG,102 min,Romance
+s219,Movie,Title_219,Director_122,Japan,"February 25, 2010",2009,TV-14,106 min,Action & Adventure
+s220,Movie,Title_220,Director_57,United States,"October 15, 2010",2009,TV-PG,78 min,Drama
+s221,Movie,Title_221,Director_150,United States,"April 23, 2010",2009,TV-14,88 min,Thriller
+s222,Movie,Title_222,Director_44,United States,"March 22, 2010",2010,TV-PG,155 min,Drama
+s223,Movie,Title_223,Director_284,United States,"September 26, 2010",2008,TV-14,134 min,Reality TV
+s224,Movie,Title_224,Director_183,India,"June 09, 2010",2008,TV-PG,72 min,Documentary
+s225,Movie,Title_225,Director_69,Japan,"October 24, 2010",2008,TV-PG,112 min,Comedy
+s226,Movie,Title_226,Director_246,United States,"November 15, 2010",2010,TV-PG,159 min,Comedy
+s227,Movie,Title_227,Director_104,United States,"August 02, 2010",2008,R,107 min,Drama
+s228,Movie,Title_228,Director_418,Mexico,"May 17, 2010",2010,TV-14,120 min,Crime
+s229,Movie,Title_229,Director_444,United States,"May 12, 2010",2010,TV-PG,76 min,Documentary
+s230,Movie,Title_230,Director_459,United States,"July 24, 2010",2009,TV-14,126 min,Comedy
+s231,Movie,Title_231,Director_137,United States,"June 26, 2010",2008,R,136 min,Comedy
+s232,Movie,Title_232,Director_165,United States,"March 18, 2010",2008,TV-PG,107 min,Horror
+s233,Movie,Title_233,Director_86,France,"October 23, 2010",2010,TV-14,124 min,Drama
+s234,TV Show,Title_234,Director_406,India,"June 20, 2010",2008,R,7 Season,Documentary
+s235,TV Show,Title_235,Director_74,Canada,"December 22, 2010",2010,TV-14,3 Seasons,Drama
+s236,TV Show,Title_236,Director_487,India,"April 25, 2010",2010,TV-MA,6 Season,Horror
+s237,TV Show,Title_237,Director_294,United States,"June 12, 2010",2008,TV-14,8 Seasons,Drama
+s238,TV Show,Title_238,Director_256,India,"April 04, 2010",2010,TV-PG,1 Seasons,Action & Adventure
+s239,TV Show,Title_239,Director_314,United Kingdom,"May 23, 2010",2009,TV-MA,8 Season,Documentary
+s240,TV Show,Title_240,Director_461,Italy,"March 28, 2010",2010,TV-MA,2 Seasons,Horror
+s241,TV Show,Title_241,Director_282,United States,"June 22, 2010",2010,R,6 Seasons,Documentary
+s242,TV Show,Title_242,Director_261,United States,"December 23, 2010",2008,TV-MA,3 Seasons,Comedy
+s243,TV Show,Title_243,Director_189,United States,"August 01, 2010",2009,TV-MA,6 Seasons,Drama
+s244,TV Show,Title_244,Director_368,United Kingdom,"February 03, 2010",2010,TV-PG,5 Season,Crime
+s245,TV Show,Title_245,Director_329,India,"October 03, 2010",2008,TV-14,3 Seasons,Documentary
+s246,TV Show,Title_246,Director_67,France,"September 21, 2010",2009,TV-14,3 Seasons,Documentary
+s247,TV Show,Title_247,Director_166,Mexico,"September 05, 2010",2010,PG-13,5 Season,Action & Adventure
+s248,TV Show,Title_248,Director_326,Nigeria,"May 28, 2010",2010,TV-14,2 Season,Comedy
+s249,TV Show,Title_249,Director_298,Canada,"February 17, 2010",2008,TV-PG,3 Seasons,Comedy
+s250,TV Show,Title_250,Director_15,Canada,"June 27, 2010",2008,PG,1 Seasons,Drama
+s251,TV Show,Title_251,Director_16,Canada,"November 07, 2010",2009,TV-PG,7 Seasons,Drama
+s252,TV Show,Title_252,Director_351,United Kingdom,"May 16, 2010",2009,TV-PG,4 Seasons,Sci-Fi & Fantasy
+s253,TV Show,Title_253,Director_175,United States,"August 14, 2010",2010,TV-MA,8 Seasons,Comedy
+s254,TV Show,Title_254,Director_264,Mexico,"June 13, 2010",2010,TV-14,3 Seasons,Drama
+s255,TV Show,Title_255,Director_149,United States,"August 08, 2010",2009,TV-MA,3 Season,Drama
+s256,TV Show,Title_256,Director_370,India,"March 27, 2010",2009,NR,6 Seasons,Animation
+s257,TV Show,Title_257,Director_47,United States,"August 16, 2010",2009,TV-Y7,5 Seasons,Drama
+s258,TV Show,Title_258,Director_306,Turkey,"June 02, 2010",2010,TV-MA,1 Season,Action & Adventure
+s259,Movie,Title_259,Director_452,United States,"February 14, 2011",2010,TV-MA,87 min,Horror
+s260,Movie,Title_260,Director_288,South Korea,"July 02, 2011",2009,TV-14,142 min,Horror
+s261,Movie,Title_261,Director_144,United States,"August 25, 2011",2011,TV-14,140 min,Comedy
+s262,Movie,Title_262,Director_286,United States,"July 12, 2011",2010,TV-G,113 min,Horror
+s263,Movie,Title_263,Director_20,United States,"September 02, 2011",2009,TV-14,75 min,Romance
+s264,Movie,Title_264,Director_72,Spain,"March 20, 2011",2010,TV-14,135 min,Horror
+s265,Movie,Title_265,Director_304,United States,"October 24, 2011",2010,TV-14,108 min,Stand-Up Comedy
+s266,Movie,Title_266,Director_418,India,"October 10, 2011",2009,TV-14,130 min,Action & Adventure
+s267,Movie,Title_267,Director_323,France,"October 10, 2011",2009,TV-G,158 min,Comedy
+s268,Movie,Title_268,Director_370,United States,"October 19, 2011",2009,TV-PG,99 min,Thriller
+s269,Movie,Title_269,Director_76,United States,"October 25, 2011",2011,TV-PG,118 min,Action & Adventure
+s270,Movie,Title_270,Director_161,United Kingdom,"April 01, 2011",2010,R,126 min,Comedy
+s271,Movie,Title_271,Director_362,France,"October 16, 2011",2009,TV-14,77 min,Drama
+s272,Movie,Title_272,Director_161,United Kingdom,"August 17, 2011",2009,TV-Y7,118 min,Action & Adventure
+s273,Movie,Title_273,Director_330,United Kingdom,"November 25, 2011",2011,TV-14,157 min,Documentary
+s274,Movie,Title_274,Director_116,India,"May 18, 2011",2010,NR,108 min,Comedy
+s275,Movie,Title_275,Director_179,Japan,"August 11, 2011",2011,R,131 min,Romance
+s276,Movie,Title_276,Director_279,Spain,"February 19, 2011",2010,TV-MA,156 min,Stand-Up Comedy
+s277,Movie,Title_277,Director_148,India,"March 10, 2011",2011,TV-14,75 min,Sci-Fi & Fantasy
+s278,Movie,Title_278,Director_104,Australia,"December 16, 2011",2011,TV-PG,97 min,Drama
+s279,Movie,Title_279,Director_123,United Kingdom,"February 20, 2011",2009,TV-MA,145 min,Comedy
+s280,Movie,Title_280,Director_212,Brazil,"April 02, 2011",2010,TV-MA,82 min,Drama
+s281,Movie,Title_281,Director_209,United States,"January 18, 2011",2011,PG-13,90 min,Horror
+s282,Movie,Title_282,Director_165,Mexico,"April 25, 2011",2010,TV-14,106 min,Stand-Up Comedy
+s283,Movie,Title_283,Director_379,Brazil,"October 08, 2011",2011,TV-MA,138 min,Thriller
+s284,Movie,Title_284,Director_479,United States,"July 27, 2011",2009,G,92 min,Animation
+s285,Movie,Title_285,Director_449,India,"December 28, 2011",2009,TV-14,107 min,Children & Family
+s286,Movie,Title_286,Director_329,United Kingdom,"June 10, 2011",2011,TV-MA,128 min,Drama
+s287,Movie,Title_287,Director_99,Brazil,"September 15, 2011",2009,TV-MA,104 min,Action & Adventure
+s288,Movie,Title_288,Director_378,Japan,"December 06, 2011",2010,TV-PG,71 min,Comedy
+s289,Movie,Title_289,Director_460,United Kingdom,"March 20, 2011",2010,R,151 min,Crime
+s290,Movie,Title_290,Director_72,India,"November 04, 2011",2010,TV-MA,93 min,Crime
+s291,Movie,Title_291,Director_489,United States,"April 15, 2011",2010,TV-MA,104 min,Comedy
+s292,Movie,Title_292,Director_121,Japan,"November 12, 2011",2009,TV-MA,158 min,Comedy
+s293,Movie,Title_293,Director_395,India,"November 17, 2011",2010,TV-MA,160 min,Thriller
+s294,Movie,Title_294,Director_113,Canada,"June 20, 2011",2009,NR,98 min,Horror
+s295,Movie,Title_295,Director_282,India,"June 14, 2011",2010,TV-G,159 min,Documentary
+s296,Movie,Title_296,Director_448,Spain,"April 22, 2011",2009,PG-13,146 min,Romance
+s297,Movie,Title_297,Director_425,United Kingdom,"October 04, 2011",2011,TV-14,77 min,Action & Adventure
+s298,Movie,Title_298,Director_227,United States,"March 11, 2011",2009,TV-14,136 min,Sci-Fi & Fantasy
+s299,Movie,Title_299,Director_233,Japan,"September 15, 2011",2009,TV-14,77 min,Horror
+s300,Movie,Title_300,Director_371,India,"August 22, 2011",2009,TV-MA,109 min,Action & Adventure
+s301,Movie,Title_301,Director_217,Spain,"October 03, 2011",2010,R,75 min,Documentary
+s302,Movie,Title_302,Director_147,United Kingdom,"February 16, 2011",2010,TV-MA,74 min,Horror
+s303,Movie,Title_303,Director_192,United States,"December 21, 2011",2010,TV-PG,123 min,Drama
+s304,Movie,Title_304,Director_448,Brazil,"February 22, 2011",2011,TV-14,154 min,Documentary
+s305,Movie,Title_305,Director_66,Mexico,"September 13, 2011",2011,TV-MA,137 min,Drama
+s306,Movie,Title_306,Director_369,Germany,"May 15, 2011",2011,R,156 min,Reality TV
+s307,Movie,Title_307,Director_142,India,"August 12, 2011",2009,TV-MA,89 min,Documentary
+s308,Movie,Title_308,Director_393,Japan,"November 14, 2011",2009,TV-MA,148 min,Stand-Up Comedy
+s309,Movie,Title_309,Director_361,United States,"August 20, 2011",2009,TV-PG,156 min,Comedy
+s310,Movie,Title_310,Director_72,United States,"September 07, 2011",2011,TV-14,77 min,Comedy
+s311,Movie,Title_311,Director_307,United States,"October 11, 2011",2011,G,143 min,Children & Family
+s312,Movie,Title_312,Director_212,United States,"November 17, 2011",2010,PG,98 min,Crime
+s313,Movie,Title_313,Director_348,United Kingdom,"December 06, 2011",2010,TV-PG,150 min,Comedy
+s314,Movie,Title_314,Director_403,United States,"November 22, 2011",2011,TV-14,118 min,Action & Adventure
+s315,Movie,Title_315,Director_243,India,"July 06, 2011",2009,TV-MA,138 min,Comedy
+s316,Movie,Title_316,Director_212,United States,"August 02, 2011",2010,R,141 min,Animation
+s317,Movie,Title_317,Director_41,United States,"April 11, 2011",2010,TV-MA,152 min,Action & Adventure
+s318,Movie,Title_318,Director_194,United States,"April 02, 2011",2011,R,104 min,Animation
+s319,Movie,Title_319,Director_287,United States,"October 24, 2011",2009,TV-MA,155 min,Thriller
+s320,Movie,Title_320,Director_493,Mexico,"January 07, 2011",2011,TV-14,94 min,Documentary
+s321,Movie,Title_321,Director_361,Italy,"April 23, 2011",2009,TV-14,147 min,Drama
+s322,Movie,Title_322,Director_274,United States,"May 13, 2011",2011,TV-14,129 min,Documentary
+s323,TV Show,Title_323,Director_370,United States,"August 15, 2011",2010,TV-14,2 Seasons,Comedy
+s324,TV Show,Title_324,Director_114,United States,"June 14, 2011",2011,TV-MA,1 Seasons,Romance
+s325,TV Show,Title_325,Director_101,United States,"October 24, 2011",2010,G,7 Season,Drama
+s326,TV Show,Title_326,Director_421,United Kingdom,"September 21, 2011",2010,TV-MA,6 Season,Comedy
+s327,TV Show,Title_327,Director_369,Canada,"March 24, 2011",2011,TV-14,6 Season,International
+s328,TV Show,Title_328,Director_39,Brazil,"November 02, 2011",2011,TV-14,1 Seasons,Documentary
+s329,TV Show,Title_329,Director_5,United States,"November 08, 2011",2009,TV-MA,2 Seasons,Drama
+s330,TV Show,Title_330,Director_9,India,"November 20, 2011",2009,TV-PG,8 Seasons,Action & Adventure
+s331,TV Show,Title_331,Director_417,India,"December 09, 2011",2011,TV-MA,5 Season,Action & Adventure
+s332,TV Show,Title_332,Director_318,Spain,"February 04, 2011",2011,PG,3 Season,Horror
+s333,TV Show,Title_333,Director_125,United States,"February 12, 2011",2011,PG-13,7 Seasons,Comedy
+s334,TV Show,Title_334,Director_195,France,"November 28, 2011",2010,PG-13,1 Season,Comedy
+s335,TV Show,Title_335,Director_331,United States,"March 03, 2011",2010,TV-MA,8 Seasons,Action & Adventure
+s336,TV Show,Title_336,Director_445,Mexico,"September 02, 2011",2011,TV-MA,4 Season,Action & Adventure
+s337,TV Show,Title_337,Director_289,India,"February 22, 2011",2011,TV-MA,5 Seasons,Sci-Fi & Fantasy
+s338,TV Show,Title_338,Director_365,Australia,"April 19, 2011",2010,TV-14,3 Seasons,Drama
+s339,TV Show,Title_339,Director_277,United States,"October 27, 2011",2010,TV-PG,7 Seasons,Stand-Up Comedy
+s340,TV Show,Title_340,Director_499,Japan,"December 24, 2011",2010,PG-13,2 Seasons,Documentary
+s341,TV Show,Title_341,Director_168,India,"June 20, 2011",2009,PG-13,7 Seasons,Drama
+s342,TV Show,Title_342,Director_349,South Korea,"April 12, 2011",2011,TV-14,7 Seasons,Thriller
+s343,TV Show,Title_343,Director_79,United States,"April 23, 2011",2010,TV-PG,2 Season,Thriller
+s344,TV Show,Title_344,Director_483,Canada,"June 12, 2011",2010,R,2 Season,Horror
+s345,TV Show,Title_345,Director_285,South Korea,"February 06, 2011",2011,TV-MA,7 Seasons,Documentary
+s346,TV Show,Title_346,Director_7,United States,"February 20, 2011",2010,TV-14,6 Seasons,Documentary
+s347,TV Show,Title_347,Director_87,South Korea,"September 08, 2011",2009,R,3 Seasons,Documentary
+s348,TV Show,Title_348,Director_248,United States,"March 14, 2011",2009,TV-MA,5 Seasons,Comedy
+s349,TV Show,Title_349,Director_70,Nigeria,"August 20, 2011",2010,R,4 Seasons,Comedy
+s350,TV Show,Title_350,Director_221,India,"July 26, 2011",2011,PG-13,6 Seasons,Drama
+s351,TV Show,Title_351,Director_494,United States,"December 07, 2011",2010,TV-14,8 Season,Reality TV
+s352,TV Show,Title_352,Director_144,United States,"August 19, 2011",2010,R,4 Season,International
+s353,Movie,Title_353,Director_394,Australia,"September 06, 2012",2012,TV-MA,157 min,Comedy
+s354,Movie,Title_354,Director_426,Japan,"April 15, 2012",2012,NR,107 min,Drama
+s355,Movie,Title_355,Director_325,Germany,"November 16, 2012",2011,PG-13,87 min,Drama
+s356,Movie,Title_356,Director_307,France,"July 03, 2012",2011,R,127 min,Comedy
+s357,Movie,Title_357,Director_19,United Kingdom,"December 14, 2012",2011,G,139 min,Action & Adventure
+s358,Movie,Title_358,Director_337,Spain,"February 04, 2012",2012,TV-PG,101 min,Horror
+s359,Movie,Title_359,Director_205,Canada,"November 22, 2012",2011,TV-MA,152 min,Comedy
+s360,Movie,Title_360,Director_383,India,"May 08, 2012",2012,TV-MA,135 min,International
+s361,Movie,Title_361,Director_396,France,"June 13, 2012",2012,TV-MA,129 min,Action & Adventure
+s362,Movie,Title_362,Director_152,India,"January 16, 2012",2011,TV-14,83 min,Action & Adventure
+s363,Movie,Title_363,Director_160,United States,"December 05, 2012",2011,PG-13,114 min,Stand-Up Comedy
+s364,Movie,Title_364,Director_370,United States,"August 04, 2012",2012,TV-14,126 min,Documentary
+s365,Movie,Title_365,Director_435,United States,"December 04, 2012",2011,TV-MA,72 min,Documentary
+s366,Movie,Title_366,Director_90,France,"December 08, 2012",2012,TV-MA,136 min,Thriller
+s367,Movie,Title_367,Director_323,United Kingdom,"April 26, 2012",2010,NR,121 min,Drama
+s368,Movie,Title_368,Director_231,France,"December 20, 2012",2012,TV-14,95 min,Drama
+s369,Movie,Title_369,Director_415,United States,"May 25, 2012",2010,TV-MA,160 min,Documentary
+s370,Movie,Title_370,Director_235,Spain,"June 11, 2012",2010,TV-14,95 min,Action & Adventure
+s371,Movie,Title_371,Director_199,Mexico,"November 11, 2012",2012,TV-14,146 min,Comedy
+s372,Movie,Title_372,Director_417,United States,"August 20, 2012",2012,TV-14,92 min,Documentary
+s373,Movie,Title_373,Director_161,United States,"February 22, 2012",2010,TV-PG,87 min,Horror
+s374,Movie,Title_374,Director_215,United States,"March 17, 2012",2012,TV-14,119 min,Comedy
+s375,Movie,Title_375,Director_471,India,"November 18, 2012",2012,TV-MA,158 min,Drama
+s376,Movie,Title_376,Director_162,United States,"May 05, 2012",2011,TV-MA,93 min,Stand-Up Comedy
+s377,Movie,Title_377,Director_418,Mexico,"August 05, 2012",2011,NR,94 min,Thriller
+s378,Movie,Title_378,Director_364,India,"November 16, 2012",2011,TV-14,123 min,International
+s379,Movie,Title_379,Director_141,United States,"April 10, 2012",2010,TV-MA,74 min,Documentary
+s380,Movie,Title_380,Director_282,United States,"December 25, 2012",2012,TV-14,133 min,Action & Adventure
+s381,Movie,Title_381,Director_390,United States,"June 18, 2012",2012,PG-13,75 min,Drama
+s382,Movie,Title_382,Director_385,United States,"December 27, 2012",2010,TV-14,153 min,Documentary
+s383,Movie,Title_383,Director_225,Italy,"June 28, 2012",2010,TV-14,81 min,Comedy
+s384,Movie,Title_384,Director_441,United States,"October 23, 2012",2012,PG-13,114 min,Romance
+s385,Movie,Title_385,Director_413,India,"April 27, 2012",2010,TV-PG,96 min,Thriller
+s386,Movie,Title_386,Director_150,United Kingdom,"March 11, 2012",2011,TV-PG,160 min,Action & Adventure
+s387,Movie,Title_387,Director_70,Nigeria,"November 27, 2012",2011,TV-14,82 min,Action & Adventure
+s388,Movie,Title_388,Director_128,Italy,"March 23, 2012",2010,PG,86 min,Sci-Fi & Fantasy
+s389,Movie,Title_389,Director_73,Germany,"November 13, 2012",2012,R,132 min,Horror
+s390,Movie,Title_390,Director_207,Canada,"February 21, 2012",2012,TV-14,81 min,Thriller
+s391,Movie,Title_391,Director_298,France,"August 16, 2012",2010,PG,111 min,Romance
+s392,Movie,Title_392,Director_358,Germany,"August 21, 2012",2011,TV-MA,155 min,Animation
+s393,Movie,Title_393,Director_254,Spain,"July 27, 2012",2011,TV-14,97 min,Animation
+s394,Movie,Title_394,Director_404,United States,"March 19, 2012",2011,TV-14,132 min,Comedy
+s395,Movie,Title_395,Director_9,South Korea,"November 26, 2012",2010,TV-MA,128 min,Sci-Fi & Fantasy
+s396,Movie,Title_396,Director_466,United States,"July 07, 2012",2010,TV-14,158 min,Stand-Up Comedy
+s397,Movie,Title_397,Director_185,United States,"May 03, 2012",2011,PG,153 min,Sci-Fi & Fantasy
+s398,Movie,Title_398,Director_157,France,"January 13, 2012",2012,TV-PG,150 min,Drama
+s399,Movie,Title_399,Director_110,United States,"December 04, 2012",2011,TV-PG,70 min,Horror
+s400,Movie,Title_400,Director_357,United Kingdom,"August 01, 2012",2011,TV-14,71 min,Drama
+s401,Movie,Title_401,Director_118,Italy,"March 16, 2012",2011,TV-14,79 min,Crime
+s402,Movie,Title_402,Director_196,Spain,"June 10, 2012",2010,TV-MA,87 min,Drama
+s403,Movie,Title_403,Director_333,France,"October 01, 2012",2010,TV-MA,148 min,Thriller
+s404,Movie,Title_404,Director_352,Japan,"March 14, 2012",2011,TV-PG,148 min,Documentary
+s405,Movie,Title_405,Director_180,United States,"February 19, 2012",2011,TV-MA,119 min,Animation
+s406,Movie,Title_406,Director_308,United States,"February 08, 2012",2012,TV-MA,140 min,Comedy
+s407,Movie,Title_407,Director_449,United States,"January 28, 2012",2011,NR,154 min,Horror
+s408,Movie,Title_408,Director_28,Canada,"July 10, 2012",2010,TV-MA,152 min,Drama
+s409,Movie,Title_409,Director_456,United States,"October 03, 2012",2010,TV-14,137 min,Action & Adventure
+s410,Movie,Title_410,Director_280,Australia,"October 14, 2012",2012,TV-MA,116 min,Reality TV
+s411,Movie,Title_411,Director_35,India,"February 01, 2012",2010,TV-G,145 min,Drama
+s412,Movie,Title_412,Director_322,United States,"July 17, 2012",2012,TV-MA,106 min,Comedy
+s413,Movie,Title_413,Director_276,India,"February 21, 2012",2012,R,138 min,Action & Adventure
+s414,Movie,Title_414,Director_275,United States,"April 26, 2012",2011,TV-MA,89 min,Drama
+s415,Movie,Title_415,Director_159,Canada,"November 21, 2012",2012,PG-13,78 min,Documentary
+s416,Movie,Title_416,Director_60,Nigeria,"April 03, 2012",2011,TV-MA,125 min,Documentary
+s417,Movie,Title_417,Director_62,United States,"November 24, 2012",2010,TV-PG,92 min,Thriller
+s418,Movie,Title_418,Director_401,Japan,"June 17, 2012",2012,TV-MA,136 min,Horror
+s419,Movie,Title_419,Director_395,India,"May 24, 2012",2010,R,85 min,Comedy
+s420,Movie,Title_420,Director_322,India,"May 23, 2012",2010,TV-14,143 min,Comedy
+s421,Movie,Title_421,Director_81,India,"October 06, 2012",2011,TV-MA,117 min,Action & Adventure
+s422,Movie,Title_422,Director_2,Brazil,"February 08, 2012",2010,R,135 min,Romance
+s423,Movie,Title_423,Director_92,United States,"June 13, 2012",2010,TV-MA,89 min,Animation
+s424,Movie,Title_424,Director_128,Brazil,"July 08, 2012",2011,R,111 min,Action & Adventure
+s425,TV Show,Title_425,Director_462,United States,"October 12, 2012",2010,PG-13,2 Seasons,Sci-Fi & Fantasy
+s426,TV Show,Title_426,Director_397,Spain,"July 03, 2012",2011,TV-G,8 Seasons,Drama
+s427,TV Show,Title_427,Director_125,United Kingdom,"April 10, 2012",2011,TV-MA,5 Seasons,Comedy
+s428,TV Show,Title_428,Director_478,Turkey,"April 24, 2012",2011,TV-Y7,4 Season,Comedy
+s429,TV Show,Title_429,Director_337,United Kingdom,"December 01, 2012",2011,TV-PG,6 Season,Drama
+s430,TV Show,Title_430,Director_31,Japan,"September 08, 2012",2010,TV-MA,7 Seasons,Animation
+s431,TV Show,Title_431,Director_383,United States,"September 14, 2012",2010,G,6 Seasons,Horror
+s432,TV Show,Title_432,Director_494,India,"July 03, 2012",2010,TV-PG,1 Seasons,Action & Adventure
+s433,TV Show,Title_433,Director_140,United States,"July 23, 2012",2010,TV-14,6 Season,Comedy
+s434,TV Show,Title_434,Director_231,United States,"October 04, 2012",2011,PG-13,3 Season,Drama
+s435,TV Show,Title_435,Director_437,United States,"April 15, 2012",2010,TV-14,5 Seasons,Comedy
+s436,TV Show,Title_436,Director_439,Spain,"December 23, 2012",2011,TV-14,1 Season,Drama
+s437,TV Show,Title_437,Director_134,Japan,"July 17, 2012",2010,NR,1 Seasons,Drama
+s438,TV Show,Title_438,Director_53,India,"December 18, 2012",2010,TV-14,4 Season,Drama
+s439,TV Show,Title_439,Director_191,United States,"April 05, 2012",2012,PG-13,4 Seasons,Drama
+s440,TV Show,Title_440,Director_34,Canada,"May 27, 2012",2010,TV-PG,2 Season,Thriller
+s441,TV Show,Title_441,Director_26,India,"June 04, 2012",2010,TV-MA,1 Seasons,Sci-Fi & Fantasy
+s442,TV Show,Title_442,Director_89,India,"August 01, 2012",2011,R,7 Seasons,Stand-Up Comedy
+s443,TV Show,Title_443,Director_256,United States,"March 02, 2012",2011,TV-MA,4 Seasons,Drama
+s444,TV Show,Title_444,Director_453,India,"July 05, 2012",2012,TV-MA,7 Season,Sci-Fi & Fantasy
+s445,TV Show,Title_445,Director_401,Italy,"January 13, 2012",2011,TV-14,6 Seasons,Comedy
+s446,TV Show,Title_446,Director_113,United Kingdom,"May 06, 2012",2010,TV-14,1 Season,Comedy
+s447,TV Show,Title_447,Director_120,South Korea,"August 17, 2012",2010,TV-MA,6 Seasons,Sci-Fi & Fantasy
+s448,TV Show,Title_448,Director_409,France,"December 02, 2012",2011,TV-MA,4 Seasons,Drama
+s449,TV Show,Title_449,Director_358,Germany,"March 08, 2012",2011,PG-13,6 Seasons,Comedy
+s450,TV Show,Title_450,Director_97,United States,"October 19, 2012",2011,R,3 Seasons,Sci-Fi & Fantasy
+s451,TV Show,Title_451,Director_245,United States,"January 08, 2012",2010,TV-MA,4 Season,Action & Adventure
+s452,TV Show,Title_452,Director_433,Canada,"June 23, 2012",2011,PG-13,3 Seasons,Comedy
+s453,TV Show,Title_453,Director_441,United States,"March 25, 2012",2011,R,2 Seasons,Drama
+s454,TV Show,Title_454,Director_166,India,"July 19, 2012",2010,NR,2 Season,International
+s455,TV Show,Title_455,Director_496,Japan,"November 16, 2012",2012,TV-14,6 Season,Reality TV
+s456,TV Show,Title_456,Director_376,Australia,"April 22, 2012",2012,PG-13,3 Season,Horror
+s457,TV Show,Title_457,Director_395,United States,"December 19, 2012",2012,TV-MA,7 Seasons,Comedy
+s458,TV Show,Title_458,Director_73,Canada,"October 08, 2012",2011,G,2 Seasons,Drama
+s459,TV Show,Title_459,Director_344,United States,"March 21, 2012",2012,TV-G,2 Seasons,Romance
+s460,TV Show,Title_460,Director_403,United States,"April 08, 2012",2010,TV-MA,2 Season,Horror
+s461,Movie,Title_461,Director_253,United States,"July 06, 2013",2012,TV-14,122 min,Horror
+s462,Movie,Title_462,Director_116,India,"October 21, 2013",2011,PG-13,157 min,Comedy
+s463,Movie,Title_463,Director_488,Spain,"January 11, 2013",2011,TV-MA,103 min,Documentary
+s464,Movie,Title_464,Director_483,United States,"December 03, 2013",2011,TV-14,140 min,Drama
+s465,Movie,Title_465,Director_483,Italy,"December 01, 2013",2013,PG,125 min,Comedy
+s466,Movie,Title_466,Director_499,Brazil,"February 11, 2013",2011,TV-MA,96 min,Drama
+s467,Movie,Title_467,Director_145,United Kingdom,"September 09, 2013",2012,G,154 min,Documentary
+s468,Movie,Title_468,Director_185,United States,"August 05, 2013",2011,TV-PG,76 min,Comedy
+s469,Movie,Title_469,Director_50,United States,"October 16, 2013",2011,TV-PG,95 min,Documentary
+s470,Movie,Title_470,Director_158,Canada,"August 28, 2013",2012,TV-G,84 min,Drama
+s471,Movie,Title_471,Director_95,Brazil,"November 18, 2013",2012,TV-MA,119 min,Documentary
+s472,Movie,Title_472,Director_135,India,"May 15, 2013",2011,TV-14,129 min,Sci-Fi & Fantasy
+s473,Movie,Title_473,Director_44,United Kingdom,"December 22, 2013",2013,TV-MA,82 min,Crime
+s474,Movie,Title_474,Director_32,United Kingdom,"October 08, 2013",2012,TV-G,140 min,Comedy
+s475,Movie,Title_475,Director_244,India,"August 19, 2013",2012,TV-14,100 min,Crime
+s476,Movie,Title_476,Director_410,Brazil,"September 19, 2013",2013,R,136 min,Drama
+s477,Movie,Title_477,Director_498,Canada,"August 06, 2013",2011,TV-MA,91 min,Horror
+s478,Movie,Title_478,Director_422,United States,"November 14, 2013",2013,TV-14,95 min,Crime
+s479,Movie,Title_479,Director_45,United Kingdom,"December 26, 2013",2012,TV-14,78 min,Drama
+s480,Movie,Title_480,Director_403,United Kingdom,"September 15, 2013",2013,PG,71 min,Action & Adventure
+s481,Movie,Title_481,Director_291,United Kingdom,"July 05, 2013",2013,TV-14,88 min,Thriller
+s482,Movie,Title_482,Director_403,Turkey,"February 19, 2013",2012,TV-MA,82 min,Action & Adventure
+s483,Movie,Title_483,Director_249,Mexico,"May 13, 2013",2013,PG,153 min,Animation
+s484,Movie,Title_484,Director_349,United States,"March 20, 2013",2013,TV-MA,147 min,Thriller
+s485,Movie,Title_485,Director_382,India,"December 08, 2013",2012,PG,76 min,Documentary
+s486,Movie,Title_486,Director_432,Brazil,"May 10, 2013",2012,TV-MA,105 min,Stand-Up Comedy
+s487,Movie,Title_487,Director_499,France,"April 05, 2013",2013,TV-G,108 min,Animation
+s488,Movie,Title_488,Director_46,Germany,"July 20, 2013",2011,TV-MA,152 min,Documentary
+s489,Movie,Title_489,Director_445,Brazil,"August 25, 2013",2012,TV-14,136 min,Documentary
+s490,Movie,Title_490,Director_207,India,"May 23, 2013",2011,TV-MA,134 min,Crime
+s491,Movie,Title_491,Director_429,United Kingdom,"March 07, 2013",2011,TV-PG,95 min,Romance
+s492,Movie,Title_492,Director_189,India,"December 07, 2013",2012,G,105 min,Comedy
+s493,Movie,Title_493,Director_251,Canada,"January 08, 2013",2013,TV-MA,117 min,Action & Adventure
+s494,Movie,Title_494,Director_84,Turkey,"September 12, 2013",2012,TV-14,114 min,Documentary
+s495,Movie,Title_495,Director_438,France,"July 02, 2013",2013,TV-MA,90 min,Romance
+s496,Movie,Title_496,Director_138,United States,"April 22, 2013",2013,TV-MA,96 min,Romance
+s497,Movie,Title_497,Director_467,United States,"November 01, 2013",2011,PG-13,130 min,Documentary
+s498,Movie,Title_498,Director_365,Canada,"May 20, 2013",2013,TV-MA,109 min,Thriller
+s499,Movie,Title_499,Director_112,India,"June 15, 2013",2012,TV-14,102 min,Thriller
+s500,Movie,Title_500,Director_262,United Kingdom,"October 04, 2013",2013,TV-PG,70 min,Comedy
+s501,Movie,Title_501,Director_153,Germany,"October 20, 2013",2013,TV-PG,106 min,International
+s502,Movie,Title_502,Director_134,United States,"November 11, 2013",2013,TV-G,105 min,Drama
+s503,Movie,Title_503,Director_461,Brazil,"March 17, 2013",2011,TV-MA,100 min,Horror
+s504,Movie,Title_504,Director_72,Spain,"November 11, 2013",2013,TV-PG,157 min,Crime
+s505,Movie,Title_505,Director_378,India,"July 13, 2013",2011,TV-MA,119 min,Drama
+s506,Movie,Title_506,Director_352,Italy,"June 24, 2013",2013,PG-13,98 min,Action & Adventure
+s507,Movie,Title_507,Director_433,India,"June 17, 2013",2011,NR,108 min,Thriller
+s508,Movie,Title_508,Director_380,Mexico,"February 16, 2013",2012,TV-MA,86 min,Animation
+s509,Movie,Title_509,Director_46,United Kingdom,"November 11, 2013",2011,G,153 min,Horror
+s510,Movie,Title_510,Director_300,Japan,"June 12, 2013",2012,TV-14,103 min,Comedy
+s511,Movie,Title_511,Director_484,United States,"November 19, 2013",2013,TV-MA,144 min,Documentary
+s512,Movie,Title_512,Director_153,Brazil,"November 13, 2013",2012,TV-14,137 min,Drama
+s513,Movie,Title_513,Director_292,Germany,"April 11, 2013",2012,TV-MA,122 min,Drama
+s514,Movie,Title_514,Director_324,Mexico,"February 16, 2013",2011,TV-MA,112 min,Drama
+s515,Movie,Title_515,Director_296,United States,"April 25, 2013",2011,TV-14,91 min,Comedy
+s516,Movie,Title_516,Director_220,South Korea,"October 14, 2013",2012,TV-MA,151 min,Documentary
+s517,Movie,Title_517,Director_487,India,"September 07, 2013",2011,TV-MA,117 min,Documentary
+s518,Movie,Title_518,Director_321,South Korea,"January 22, 2013",2013,TV-14,70 min,Sci-Fi & Fantasy
+s519,Movie,Title_519,Director_258,France,"March 04, 2013",2013,TV-14,119 min,Comedy
+s520,Movie,Title_520,Director_306,United States,"May 15, 2013",2013,TV-MA,136 min,Comedy
+s521,Movie,Title_521,Director_385,Brazil,"June 16, 2013",2011,TV-Y7,115 min,Comedy
+s522,Movie,Title_522,Director_373,Brazil,"January 08, 2013",2011,PG-13,98 min,Drama
+s523,Movie,Title_523,Director_406,United States,"February 12, 2013",2011,TV-14,153 min,Drama
+s524,Movie,Title_524,Director_25,Canada,"October 02, 2013",2013,PG-13,146 min,Documentary
+s525,Movie,Title_525,Director_195,Germany,"February 14, 2013",2011,TV-MA,126 min,Drama
+s526,Movie,Title_526,Director_5,India,"December 22, 2013",2012,TV-MA,150 min,Action & Adventure
+s527,Movie,Title_527,Director_71,United States,"October 20, 2013",2012,TV-14,159 min,Documentary
+s528,Movie,Title_528,Director_402,United States,"February 10, 2013",2011,R,84 min,Crime
+s529,Movie,Title_529,Director_361,Canada,"September 07, 2013",2012,PG-13,115 min,Action & Adventure
+s530,Movie,Title_530,Director_170,United States,"April 23, 2013",2011,TV-14,131 min,Comedy
+s531,TV Show,Title_531,Director_47,France,"October 22, 2013",2013,PG,8 Season,Drama
+s532,TV Show,Title_532,Director_152,Japan,"November 08, 2013",2012,PG,8 Seasons,Drama
+s533,TV Show,Title_533,Director_347,United States,"January 28, 2013",2012,TV-MA,5 Season,Documentary
+s534,TV Show,Title_534,Director_88,United States,"January 01, 2013",2012,PG,3 Seasons,Documentary
+s535,TV Show,Title_535,Director_94,India,"December 03, 2013",2011,TV-PG,6 Seasons,Comedy
+s536,TV Show,Title_536,Director_333,Turkey,"July 23, 2013",2011,TV-MA,8 Seasons,Documentary
+s537,TV Show,Title_537,Director_248,France,"March 04, 2013",2013,TV-MA,7 Seasons,Drama
+s538,TV Show,Title_538,Director_451,United States,"June 20, 2013",2013,TV-14,1 Seasons,Horror
+s539,TV Show,Title_539,Director_134,United States,"February 14, 2013",2013,G,8 Season,Reality TV
+s540,TV Show,Title_540,Director_343,Japan,"December 19, 2013",2012,R,4 Seasons,Comedy
+s541,TV Show,Title_541,Director_340,France,"July 22, 2013",2013,TV-PG,4 Seasons,Action & Adventure
+s542,TV Show,Title_542,Director_81,United States,"October 02, 2013",2013,PG-13,1 Seasons,Thriller
+s543,TV Show,Title_543,Director_170,Germany,"February 25, 2013",2012,PG,8 Season,Animation
+s544,TV Show,Title_544,Director_228,United States,"July 27, 2013",2013,TV-PG,4 Season,Drama
+s545,TV Show,Title_545,Director_212,Mexico,"February 16, 2013",2011,TV-14,1 Season,Documentary
+s546,TV Show,Title_546,Director_288,United States,"October 20, 2013",2011,TV-MA,5 Seasons,Action & Adventure
+s547,TV Show,Title_547,Director_170,India,"January 27, 2013",2013,TV-14,4 Seasons,Thriller
+s548,TV Show,Title_548,Director_389,Canada,"June 23, 2013",2013,R,8 Season,Romance
+s549,TV Show,Title_549,Director_24,United States,"May 18, 2013",2011,PG-13,6 Seasons,Comedy
+s550,TV Show,Title_550,Director_97,Spain,"July 04, 2013",2011,R,5 Seasons,Action & Adventure
+s551,TV Show,Title_551,Director_213,India,"April 23, 2013",2011,TV-14,6 Season,Stand-Up Comedy
+s552,TV Show,Title_552,Director_3,Germany,"August 15, 2013",2013,TV-PG,3 Seasons,Stand-Up Comedy
+s553,TV Show,Title_553,Director_89,United Kingdom,"October 16, 2013",2013,TV-14,3 Seasons,Romance
+s554,TV Show,Title_554,Director_312,United States,"October 11, 2013",2013,TV-PG,7 Seasons,Crime
+s555,TV Show,Title_555,Director_309,United States,"May 15, 2013",2013,NR,3 Season,Romance
+s556,TV Show,Title_556,Director_479,India,"September 28, 2013",2013,PG-13,6 Seasons,Sci-Fi & Fantasy
+s557,TV Show,Title_557,Director_68,United States,"May 22, 2013",2013,TV-PG,6 Seasons,Thriller
+s558,TV Show,Title_558,Director_390,Nigeria,"December 21, 2013",2012,TV-14,6 Seasons,Thriller
+s559,TV Show,Title_559,Director_217,United Kingdom,"December 14, 2013",2011,NR,5 Seasons,Action & Adventure
+s560,TV Show,Title_560,Director_403,United States,"November 02, 2013",2011,TV-MA,4 Season,Action & Adventure
+s561,TV Show,Title_561,Director_278,France,"January 23, 2013",2011,TV-MA,5 Season,Reality TV
+s562,TV Show,Title_562,Director_288,India,"November 24, 2013",2012,TV-PG,4 Seasons,Comedy
+s563,TV Show,Title_563,Director_199,South Korea,"May 23, 2013",2012,PG-13,1 Seasons,Comedy
+s564,TV Show,Title_564,Director_104,Turkey,"September 02, 2013",2013,TV-14,1 Seasons,International
+s565,TV Show,Title_565,Director_280,Mexico,"April 21, 2013",2013,TV-14,6 Seasons,Animation
+s566,TV Show,Title_566,Director_39,South Korea,"May 15, 2013",2011,NR,3 Seasons,Thriller
+s567,TV Show,Title_567,Director_67,Japan,"January 14, 2013",2011,TV-MA,5 Seasons,International
+s568,TV Show,Title_568,Director_166,United States,"December 05, 2013",2013,TV-14,1 Season,Action & Adventure
+s569,Movie,Title_569,Director_405,Australia,"November 10, 2014",2014,TV-PG,132 min,Drama
+s570,Movie,Title_570,Director_267,United States,"September 08, 2014",2012,R,93 min,Action & Adventure
+s571,Movie,Title_571,Director_114,United States,"July 03, 2014",2012,TV-14,114 min,Romance
+s572,Movie,Title_572,Director_288,United States,"October 17, 2014",2014,TV-MA,130 min,Thriller
+s573,Movie,Title_573,Director_125,France,"November 20, 2014",2012,TV-14,149 min,Drama
+s574,Movie,Title_574,Director_277,United States,"February 13, 2014",2014,G,102 min,Horror
+s575,Movie,Title_575,Director_229,Brazil,"June 17, 2014",2013,PG-13,135 min,Comedy
+s576,Movie,Title_576,Director_86,Brazil,"September 03, 2014",2014,TV-MA,82 min,Drama
+s577,Movie,Title_577,Director_443,Canada,"November 25, 2014",2014,TV-MA,97 min,Action & Adventure
+s578,Movie,Title_578,Director_332,United States,"December 24, 2014",2012,TV-14,125 min,Documentary
+s579,Movie,Title_579,Director_38,United States,"June 02, 2014",2012,TV-14,81 min,Romance
+s580,Movie,Title_580,Director_199,United States,"April 09, 2014",2013,TV-MA,122 min,Drama
+s581,Movie,Title_581,Director_4,India,"November 04, 2014",2014,TV-MA,138 min,Thriller
+s582,Movie,Title_582,Director_184,United States,"January 23, 2014",2014,R,79 min,Horror
+s583,Movie,Title_583,Director_196,South Korea,"February 10, 2014",2013,TV-14,126 min,Drama
+s584,Movie,Title_584,Director_408,United States,"April 05, 2014",2014,TV-MA,120 min,Crime
+s585,Movie,Title_585,Director_491,Canada,"December 21, 2014",2012,TV-MA,117 min,Comedy
+s586,Movie,Title_586,Director_202,United Kingdom,"January 19, 2014",2014,TV-MA,146 min,Action & Adventure
+s587,Movie,Title_587,Director_109,United States,"December 24, 2014",2013,TV-MA,114 min,Action & Adventure
+s588,Movie,Title_588,Director_428,Germany,"March 08, 2014",2013,TV-MA,148 min,Sci-Fi & Fantasy
+s589,Movie,Title_589,Director_237,United States,"January 28, 2014",2014,PG-13,140 min,Drama
+s590,Movie,Title_590,Director_250,United States,"February 07, 2014",2013,TV-MA,144 min,Action & Adventure
+s591,Movie,Title_591,Director_461,France,"May 20, 2014",2012,TV-MA,78 min,Comedy
+s592,Movie,Title_592,Director_79,India,"May 23, 2014",2014,TV-PG,144 min,Comedy
+s593,Movie,Title_593,Director_127,Spain,"March 01, 2014",2012,NR,110 min,Action & Adventure
+s594,Movie,Title_594,Director_376,Canada,"June 05, 2014",2013,TV-MA,156 min,Horror
+s595,Movie,Title_595,Director_56,India,"May 16, 2014",2012,TV-14,140 min,Animation
+s596,Movie,Title_596,Director_135,United States,"March 18, 2014",2014,TV-MA,95 min,Thriller
+s597,Movie,Title_597,Director_324,United States,"January 28, 2014",2012,TV-MA,134 min,Sci-Fi & Fantasy
+s598,Movie,Title_598,Director_134,United Kingdom,"April 02, 2014",2014,R,140 min,Crime
+s599,Movie,Title_599,Director_115,United Kingdom,"March 12, 2014",2014,TV-PG,120 min,Sci-Fi & Fantasy
+s600,Movie,Title_600,Director_187,United States,"September 03, 2014",2014,TV-14,120 min,Romance
+s601,Movie,Title_601,Director_388,United States,"October 22, 2014",2014,NR,91 min,Drama
+s602,Movie,Title_602,Director_377,United States,"October 22, 2014",2014,TV-PG,88 min,Drama
+s603,Movie,Title_603,Director_136,United States,"August 08, 2014",2013,TV-MA,78 min,Documentary
+s604,Movie,Title_604,Director_470,France,"June 13, 2014",2013,TV-14,130 min,Comedy
+s605,Movie,Title_605,Director_325,United States,"February 23, 2014",2013,TV-PG,136 min,Sci-Fi & Fantasy
+s606,Movie,Title_606,Director_194,United States,"March 13, 2014",2013,TV-14,153 min,Crime
+s607,Movie,Title_607,Director_265,Brazil,"May 13, 2014",2013,TV-MA,98 min,Action & Adventure
+s608,Movie,Title_608,Director_257,Mexico,"August 20, 2014",2012,TV-14,70 min,Comedy
+s609,Movie,Title_609,Director_96,United States,"May 07, 2014",2012,TV-14,89 min,Documentary
+s610,Movie,Title_610,Director_369,Japan,"April 14, 2014",2012,TV-MA,112 min,Comedy
+s611,Movie,Title_611,Director_12,India,"March 21, 2014",2012,TV-MA,122 min,Documentary
+s612,Movie,Title_612,Director_457,United Kingdom,"November 17, 2014",2014,TV-MA,75 min,Drama
+s613,Movie,Title_613,Director_497,United States,"September 13, 2014",2014,G,146 min,Drama
+s614,Movie,Title_614,Director_230,Mexico,"May 03, 2014",2014,R,97 min,Thriller
+s615,Movie,Title_615,Director_407,Mexico,"July 20, 2014",2014,TV-MA,88 min,Children & Family
+s616,Movie,Title_616,Director_176,United States,"May 06, 2014",2013,TV-PG,157 min,Crime
+s617,Movie,Title_617,Director_104,United States,"March 04, 2014",2014,TV-14,72 min,Thriller
+s618,Movie,Title_618,Director_91,India,"March 20, 2014",2013,TV-14,82 min,Animation
+s619,Movie,Title_619,Director_48,Canada,"September 17, 2014",2013,PG,85 min,Sci-Fi & Fantasy
+s620,Movie,Title_620,Director_333,Brazil,"January 25, 2014",2013,TV-14,156 min,Thriller
+s621,Movie,Title_621,Director_481,India,"September 14, 2014",2013,TV-MA,99 min,Action & Adventure
+s622,Movie,Title_622,Director_295,India,"December 25, 2014",2012,TV-PG,159 min,Romance
+s623,Movie,Title_623,Director_449,United States,"February 10, 2014",2014,R,146 min,Documentary
+s624,Movie,Title_624,Director_61,United States,"January 19, 2014",2014,R,136 min,Documentary
+s625,Movie,Title_625,Director_55,France,"June 14, 2014",2012,R,116 min,Drama
+s626,Movie,Title_626,Director_188,United Kingdom,"September 14, 2014",2014,TV-MA,142 min,Documentary
+s627,Movie,Title_627,Director_248,France,"July 18, 2014",2012,R,141 min,Comedy
+s628,Movie,Title_628,Director_397,United Kingdom,"May 19, 2014",2014,TV-MA,114 min,Documentary
+s629,Movie,Title_629,Director_229,United States,"February 24, 2014",2014,PG,99 min,Documentary
+s630,Movie,Title_630,Director_315,United States,"June 26, 2014",2014,TV-14,140 min,Stand-Up Comedy
+s631,Movie,Title_631,Director_422,United States,"November 01, 2014",2012,TV-14,81 min,Horror
+s632,Movie,Title_632,Director_41,Canada,"May 08, 2014",2014,TV-MA,117 min,Documentary
+s633,Movie,Title_633,Director_147,India,"October 21, 2014",2014,TV-G,136 min,Drama
+s634,Movie,Title_634,Director_225,United States,"March 21, 2014",2012,PG-13,133 min,International
+s635,Movie,Title_635,Director_402,France,"May 07, 2014",2014,PG-13,74 min,Drama
+s636,Movie,Title_636,Director_123,France,"November 02, 2014",2014,TV-PG,116 min,Action & Adventure
+s637,Movie,Title_637,Director_203,United States,"July 12, 2014",2013,TV-Y7,155 min,Drama
+s638,Movie,Title_638,Director_146,United Kingdom,"February 03, 2014",2014,R,140 min,Action & Adventure
+s639,Movie,Title_639,Director_494,Brazil,"May 08, 2014",2012,TV-14,147 min,Crime
+s640,Movie,Title_640,Director_55,India,"March 14, 2014",2014,TV-MA,134 min,Documentary
+s641,Movie,Title_641,Director_417,United States,"September 09, 2014",2014,NR,138 min,Drama
+s642,Movie,Title_642,Director_388,India,"August 25, 2014",2013,TV-14,101 min,Comedy
+s643,Movie,Title_643,Director_247,India,"October 28, 2014",2012,TV-14,73 min,International
+s644,TV Show,Title_644,Director_212,India,"April 22, 2014",2013,PG-13,4 Seasons,Comedy
+s645,TV Show,Title_645,Director_384,United States,"April 10, 2014",2013,PG-13,2 Season,Action & Adventure
+s646,TV Show,Title_646,Director_383,Australia,"June 07, 2014",2014,TV-14,5 Season,Drama
+s647,TV Show,Title_647,Director_106,United States,"April 24, 2014",2012,R,4 Seasons,Stand-Up Comedy
+s648,TV Show,Title_648,Director_41,United States,"March 25, 2014",2014,TV-PG,2 Season,Drama
+s649,TV Show,Title_649,Director_162,India,"September 02, 2014",2013,TV-MA,8 Season,International
+s650,TV Show,Title_650,Director_469,Mexico,"May 16, 2014",2014,TV-PG,3 Seasons,Sci-Fi & Fantasy
+s651,TV Show,Title_651,Director_277,United States,"January 17, 2014",2012,TV-PG,7 Seasons,Comedy
+s652,TV Show,Title_652,Director_236,India,"March 15, 2014",2013,R,2 Seasons,Action & Adventure
+s653,TV Show,Title_653,Director_442,United States,"October 04, 2014",2013,TV-MA,6 Season,Horror
+s654,TV Show,Title_654,Director_218,United States,"October 11, 2014",2012,TV-MA,6 Season,Drama
+s655,TV Show,Title_655,Director_68,Japan,"July 09, 2014",2014,TV-14,8 Season,Documentary
+s656,TV Show,Title_656,Director_101,Spain,"April 18, 2014",2012,R,7 Seasons,Horror
+s657,TV Show,Title_657,Director_458,Japan,"January 06, 2014",2014,TV-14,7 Seasons,Crime
+s658,TV Show,Title_658,Director_354,Japan,"May 09, 2014",2012,PG-13,1 Season,Action & Adventure
+s659,TV Show,Title_659,Director_134,Spain,"November 04, 2014",2013,TV-14,8 Seasons,Drama
+s660,TV Show,Title_660,Director_445,United Kingdom,"June 01, 2014",2014,PG-13,7 Season,Comedy
+s661,TV Show,Title_661,Director_146,United States,"November 18, 2014",2013,TV-PG,3 Seasons,International
+s662,TV Show,Title_662,Director_238,India,"August 03, 2014",2014,PG-13,7 Seasons,Comedy
+s663,TV Show,Title_663,Director_37,Mexico,"June 14, 2014",2012,TV-PG,7 Seasons,International
+s664,TV Show,Title_664,Director_203,United States,"May 23, 2014",2013,TV-14,5 Seasons,Drama
+s665,TV Show,Title_665,Director_95,South Korea,"December 19, 2014",2012,G,8 Seasons,Sci-Fi & Fantasy
+s666,TV Show,Title_666,Director_204,United States,"December 23, 2014",2012,TV-MA,2 Season,Drama
+s667,TV Show,Title_667,Director_43,Australia,"January 01, 2014",2012,TV-14,7 Seasons,Drama
+s668,TV Show,Title_668,Director_146,United States,"July 10, 2014",2013,TV-PG,4 Season,Comedy
+s669,TV Show,Title_669,Director_167,United States,"January 02, 2014",2013,PG-13,6 Seasons,Thriller
+s670,TV Show,Title_670,Director_358,Mexico,"September 15, 2014",2014,G,3 Seasons,Documentary
+s671,TV Show,Title_671,Director_328,United Kingdom,"November 19, 2014",2014,TV-PG,7 Seasons,Drama
+s672,TV Show,Title_672,Director_134,United States,"February 15, 2014",2012,TV-14,5 Season,Comedy
+s673,TV Show,Title_673,Director_5,United States,"March 12, 2014",2014,PG-13,5 Seasons,Comedy
+s674,TV Show,Title_674,Director_306,Nigeria,"January 25, 2014",2012,TV-14,7 Seasons,Stand-Up Comedy
+s675,TV Show,Title_675,Director_367,United Kingdom,"September 14, 2014",2014,TV-MA,7 Season,Crime
+s676,TV Show,Title_676,Director_410,Germany,"February 14, 2014",2014,TV-MA,4 Seasons,Thriller
+s677,TV Show,Title_677,Director_437,France,"December 18, 2014",2012,TV-MA,5 Seasons,Crime
+s678,TV Show,Title_678,Director_252,United States,"October 15, 2014",2012,TV-PG,5 Seasons,Drama
+s679,TV Show,Title_679,Director_65,United States,"January 06, 2014",2014,NR,2 Season,Comedy
+s680,TV Show,Title_680,Director_160,United States,"January 16, 2014",2013,TV-MA,4 Season,Documentary
+s681,TV Show,Title_681,Director_398,India,"June 03, 2014",2013,PG-13,3 Season,Children & Family
+s682,TV Show,Title_682,Director_63,India,"May 27, 2014",2014,TV-MA,7 Seasons,Drama
+s683,TV Show,Title_683,Director_395,South Korea,"December 02, 2014",2012,TV-14,4 Seasons,Comedy
+s684,TV Show,Title_684,Director_373,Italy,"November 10, 2014",2012,TV-14,6 Season,Action & Adventure
+s685,TV Show,Title_685,Director_455,United Kingdom,"August 21, 2014",2012,TV-MA,5 Season,Romance
+s686,TV Show,Title_686,Director_407,United States,"November 14, 2014",2013,TV-MA,6 Season,Animation
+s687,Movie,Title_687,Director_244,India,"January 19, 2015",2015,TV-MA,158 min,Action & Adventure
+s688,Movie,Title_688,Director_352,India,"March 16, 2015",2015,TV-MA,81 min,Thriller
+s689,Movie,Title_689,Director_331,Turkey,"January 02, 2015",2013,R,115 min,Comedy
+s690,Movie,Title_690,Director_404,South Korea,"April 11, 2015",2015,TV-MA,141 min,Horror
+s691,Movie,Title_691,Director_194,Spain,"April 01, 2015",2014,TV-14,158 min,Romance
+s692,Movie,Title_692,Director_151,United States,"December 15, 2015",2015,TV-MA,141 min,Horror
+s693,Movie,Title_693,Director_141,United States,"June 11, 2015",2015,TV-MA,129 min,Horror
+s694,Movie,Title_694,Director_420,United Kingdom,"March 15, 2015",2014,TV-MA,107 min,Sci-Fi & Fantasy
+s695,Movie,Title_695,Director_453,India,"September 13, 2015",2013,PG-13,93 min,Action & Adventure
+s696,Movie,Title_696,Director_338,India,"June 24, 2015",2015,TV-PG,78 min,Thriller
+s697,Movie,Title_697,Director_145,United States,"September 05, 2015",2014,R,148 min,Crime
+s698,Movie,Title_698,Director_428,United States,"November 03, 2015",2013,TV-MA,75 min,Documentary
+s699,Movie,Title_699,Director_293,United States,"April 04, 2015",2015,TV-MA,74 min,Drama
+s700,Movie,Title_700,Director_26,France,"December 19, 2015",2014,TV-14,102 min,Crime
+s701,Movie,Title_701,Director_476,Japan,"April 21, 2015",2013,TV-MA,132 min,Comedy
+s702,Movie,Title_702,Director_407,Canada,"December 14, 2015",2015,TV-14,117 min,Documentary
+s703,Movie,Title_703,Director_40,Canada,"December 03, 2015",2013,TV-14,108 min,Drama
+s704,Movie,Title_704,Director_99,United States,"September 13, 2015",2015,R,94 min,International
+s705,Movie,Title_705,Director_213,United Kingdom,"September 24, 2015",2015,NR,141 min,Thriller
+s706,Movie,Title_706,Director_219,Canada,"August 23, 2015",2013,TV-14,155 min,Drama
+s707,Movie,Title_707,Director_274,United States,"June 22, 2015",2015,TV-14,90 min,Drama
+s708,Movie,Title_708,Director_212,United States,"June 28, 2015",2015,TV-14,117 min,Documentary
+s709,Movie,Title_709,Director_193,Japan,"October 18, 2015",2015,TV-PG,97 min,Documentary
+s710,Movie,Title_710,Director_372,United States,"August 13, 2015",2013,NR,70 min,Stand-Up Comedy
+s711,Movie,Title_711,Director_114,United Kingdom,"May 01, 2015",2013,TV-14,108 min,Reality TV
+s712,Movie,Title_712,Director_471,United States,"December 27, 2015",2015,PG-13,105 min,Animation
+s713,Movie,Title_713,Director_183,United Kingdom,"February 02, 2015",2013,TV-PG,128 min,Action & Adventure
+s714,Movie,Title_714,Director_48,India,"April 09, 2015",2015,TV-PG,108 min,Drama
+s715,Movie,Title_715,Director_89,Australia,"December 11, 2015",2014,R,131 min,Documentary
+s716,Movie,Title_716,Director_154,France,"February 20, 2015",2013,TV-PG,152 min,Crime
+s717,Movie,Title_717,Director_179,United Kingdom,"January 25, 2015",2014,TV-MA,112 min,Romance
+s718,Movie,Title_718,Director_435,Mexico,"April 24, 2015",2015,PG,153 min,Documentary
+s719,Movie,Title_719,Director_22,Canada,"January 10, 2015",2014,TV-PG,137 min,Stand-Up Comedy
+s720,Movie,Title_720,Director_345,United States,"April 05, 2015",2015,TV-14,76 min,Action & Adventure
+s721,Movie,Title_721,Director_114,Turkey,"October 17, 2015",2014,R,81 min,Children & Family
+s722,Movie,Title_722,Director_382,India,"February 16, 2015",2013,TV-MA,143 min,Comedy
+s723,Movie,Title_723,Director_67,United States,"July 25, 2015",2013,TV-14,159 min,Action & Adventure
+s724,Movie,Title_724,Director_316,United States,"October 07, 2015",2015,TV-14,141 min,Documentary
+s725,Movie,Title_725,Director_474,United States,"July 11, 2015",2015,TV-MA,157 min,Action & Adventure
+s726,Movie,Title_726,Director_177,France,"June 07, 2015",2015,TV-14,111 min,Drama
+s727,Movie,Title_727,Director_320,South Korea,"June 20, 2015",2013,TV-MA,126 min,Thriller
+s728,Movie,Title_728,Director_388,Australia,"November 12, 2015",2015,TV-MA,89 min,Documentary
+s729,Movie,Title_729,Director_8,United States,"October 05, 2015",2014,TV-MA,106 min,Animation
+s730,Movie,Title_730,Director_379,United States,"January 11, 2015",2015,TV-14,96 min,Horror
+s731,Movie,Title_731,Director_374,United Kingdom,"September 16, 2015",2013,R,149 min,Drama
+s732,Movie,Title_732,Director_131,France,"November 17, 2015",2013,TV-14,75 min,Horror
+s733,Movie,Title_733,Director_336,United States,"May 02, 2015",2013,R,129 min,Drama
+s734,Movie,Title_734,Director_10,France,"November 12, 2015",2014,TV-PG,83 min,Drama
+s735,Movie,Title_735,Director_51,Canada,"July 17, 2015",2014,TV-MA,160 min,Animation
+s736,Movie,Title_736,Director_288,United Kingdom,"April 17, 2015",2015,TV-MA,128 min,Documentary
+s737,Movie,Title_737,Director_382,United States,"June 16, 2015",2013,TV-14,120 min,Drama
+s738,Movie,Title_738,Director_142,France,"May 08, 2015",2013,TV-14,134 min,Drama
+s739,Movie,Title_739,Director_116,Mexico,"January 18, 2015",2013,PG,105 min,Thriller
+s740,Movie,Title_740,Director_492,India,"December 13, 2015",2015,TV-MA,136 min,Comedy
+s741,Movie,Title_741,Director_219,Canada,"April 19, 2015",2014,TV-MA,89 min,Thriller
+s742,Movie,Title_742,Director_298,United States,"April 21, 2015",2015,TV-14,87 min,Sci-Fi & Fantasy
+s743,Movie,Title_743,Director_466,United States,"December 23, 2015",2013,TV-MA,137 min,Horror
+s744,Movie,Title_744,Director_163,Brazil,"November 19, 2015",2013,PG-13,90 min,Documentary
+s745,Movie,Title_745,Director_373,Nigeria,"June 27, 2015",2013,TV-MA,88 min,Action & Adventure
+s746,Movie,Title_746,Director_382,Mexico,"July 10, 2015",2015,TV-14,126 min,Romance
+s747,Movie,Title_747,Director_14,United States,"February 05, 2015",2015,PG-13,93 min,Stand-Up Comedy
+s748,Movie,Title_748,Director_352,Canada,"October 08, 2015",2013,TV-PG,99 min,Thriller
+s749,Movie,Title_749,Director_241,France,"September 28, 2015",2015,TV-14,147 min,Comedy
+s750,Movie,Title_750,Director_99,United States,"August 05, 2015",2013,TV-14,90 min,Thriller
+s751,Movie,Title_751,Director_381,South Korea,"May 14, 2015",2015,TV-MA,98 min,Drama
+s752,Movie,Title_752,Director_251,South Korea,"August 28, 2015",2015,TV-MA,148 min,Reality TV
+s753,Movie,Title_753,Director_312,India,"July 25, 2015",2015,TV-MA,75 min,Comedy
+s754,Movie,Title_754,Director_275,Japan,"December 19, 2015",2015,TV-14,146 min,Crime
+s755,Movie,Title_755,Director_424,Japan,"February 15, 2015",2013,TV-MA,128 min,Thriller
+s756,Movie,Title_756,Director_199,United States,"December 02, 2015",2015,TV-14,141 min,Animation
+s757,Movie,Title_757,Director_397,Turkey,"August 13, 2015",2014,TV-MA,108 min,Romance
+s758,Movie,Title_758,Director_463,India,"January 23, 2015",2013,TV-PG,136 min,Documentary
+s759,Movie,Title_759,Director_399,Canada,"September 04, 2015",2015,TV-MA,93 min,Documentary
+s760,TV Show,Title_760,Director_233,France,"July 11, 2015",2015,TV-MA,8 Season,Stand-Up Comedy
+s761,TV Show,Title_761,Director_465,Brazil,"February 09, 2015",2015,PG,6 Seasons,Sci-Fi & Fantasy
+s762,TV Show,Title_762,Director_44,Japan,"February 23, 2015",2015,TV-MA,8 Seasons,Crime
+s763,TV Show,Title_763,Director_23,Japan,"October 06, 2015",2013,TV-G,7 Seasons,Horror
+s764,TV Show,Title_764,Director_365,United Kingdom,"March 06, 2015",2013,TV-PG,3 Season,Sci-Fi & Fantasy
+s765,TV Show,Title_765,Director_68,United States,"August 10, 2015",2013,R,3 Season,Documentary
+s766,TV Show,Title_766,Director_3,South Korea,"August 28, 2015",2015,TV-MA,8 Seasons,Drama
+s767,TV Show,Title_767,Director_308,United States,"August 15, 2015",2015,TV-PG,7 Seasons,Sci-Fi & Fantasy
+s768,TV Show,Title_768,Director_76,Mexico,"November 18, 2015",2013,TV-MA,4 Season,Drama
+s769,TV Show,Title_769,Director_45,United States,"November 19, 2015",2013,PG,5 Season,Thriller
+s770,TV Show,Title_770,Director_384,Italy,"May 20, 2015",2015,TV-MA,3 Seasons,Drama
+s771,TV Show,Title_771,Director_389,United States,"June 12, 2015",2014,R,7 Seasons,Comedy
+s772,TV Show,Title_772,Director_212,United States,"February 23, 2015",2015,TV-14,5 Season,Animation
+s773,TV Show,Title_773,Director_353,United States,"October 24, 2015",2015,TV-MA,2 Seasons,Drama
+s774,TV Show,Title_774,Director_295,Italy,"October 28, 2015",2015,TV-MA,6 Season,Stand-Up Comedy
+s775,TV Show,Title_775,Director_93,United States,"September 24, 2015",2015,TV-PG,8 Seasons,Comedy
+s776,TV Show,Title_776,Director_61,United States,"February 01, 2015",2015,TV-MA,8 Seasons,Comedy
+s777,TV Show,Title_777,Director_413,Spain,"July 02, 2015",2015,TV-Y7,6 Season,Animation
+s778,TV Show,Title_778,Director_260,Canada,"May 26, 2015",2015,R,2 Season,Drama
+s779,TV Show,Title_779,Director_100,United States,"June 13, 2015",2014,R,1 Seasons,Comedy
+s780,TV Show,Title_780,Director_247,Australia,"August 26, 2015",2013,TV-14,1 Seasons,Crime
+s781,TV Show,Title_781,Director_29,Brazil,"June 15, 2015",2015,TV-14,7 Seasons,Thriller
+s782,TV Show,Title_782,Director_170,Japan,"September 01, 2015",2014,TV-14,4 Seasons,Comedy
+s783,TV Show,Title_783,Director_200,United States,"June 13, 2015",2013,PG-13,3 Seasons,Drama
+s784,TV Show,Title_784,Director_140,Mexico,"December 28, 2015",2014,R,6 Seasons,Thriller
+s785,TV Show,Title_785,Director_192,Mexico,"May 07, 2015",2013,TV-14,5 Season,Drama
+s786,TV Show,Title_786,Director_79,Brazil,"January 26, 2015",2013,TV-14,8 Seasons,Romance
+s787,TV Show,Title_787,Director_447,India,"May 25, 2015",2013,PG,6 Season,Comedy
+s788,TV Show,Title_788,Director_366,Australia,"March 07, 2015",2015,R,1 Seasons,Crime
+s789,TV Show,Title_789,Director_456,United States,"October 28, 2015",2013,TV-MA,2 Season,Drama
+s790,TV Show,Title_790,Director_108,South Korea,"January 19, 2015",2014,R,5 Seasons,Drama
+s791,TV Show,Title_791,Director_81,United States,"August 22, 2015",2014,TV-14,2 Season,Drama
+s792,TV Show,Title_792,Director_139,Nigeria,"February 07, 2015",2013,TV-PG,6 Seasons,Drama
+s793,TV Show,Title_793,Director_174,Spain,"March 03, 2015",2015,TV-PG,5 Seasons,Stand-Up Comedy
+s794,TV Show,Title_794,Director_45,United States,"November 02, 2015",2014,TV-14,2 Season,Documentary
+s795,TV Show,Title_795,Director_160,Japan,"November 27, 2015",2014,PG,8 Seasons,Documentary
+s796,TV Show,Title_796,Director_48,Japan,"September 03, 2015",2015,R,8 Seasons,Crime
+s797,TV Show,Title_797,Director_486,India,"December 25, 2015",2013,R,8 Seasons,Documentary
+s798,TV Show,Title_798,Director_341,Brazil,"June 13, 2015",2014,TV-MA,3 Seasons,Drama
+s799,TV Show,Title_799,Director_246,Mexico,"January 03, 2015",2014,TV-14,8 Season,Romance
+s800,TV Show,Title_800,Director_366,United States,"October 05, 2015",2013,TV-14,2 Seasons,Animation
+s801,TV Show,Title_801,Director_123,Canada,"September 15, 2015",2015,PG-13,7 Seasons,Comedy
+s802,TV Show,Title_802,Director_303,United States,"February 11, 2015",2014,TV-14,4 Seasons,Comedy
+s803,TV Show,Title_803,Director_343,India,"September 23, 2015",2013,PG-13,4 Season,Romance
+s804,TV Show,Title_804,Director_50,Japan,"February 19, 2015",2014,PG-13,8 Season,Romance
+s805,TV Show,Title_805,Director_331,Nigeria,"February 22, 2015",2015,TV-MA,7 Season,Drama
+s806,Movie,Title_806,Director_415,United States,"October 25, 2016",2014,TV-MA,151 min,Drama
+s807,Movie,Title_807,Director_296,France,"May 13, 2016",2015,TV-14,148 min,Romance
+s808,Movie,Title_808,Director_156,France,"October 26, 2016",2015,TV-14,156 min,Drama
+s809,Movie,Title_809,Director_262,Brazil,"October 01, 2016",2015,TV-Y7,148 min,Horror
+s810,Movie,Title_810,Director_361,Germany,"September 02, 2016",2016,TV-MA,70 min,Animation
+s811,Movie,Title_811,Director_360,United States,"January 08, 2016",2016,PG,125 min,Crime
+s812,Movie,Title_812,Director_109,United States,"July 14, 2016",2016,TV-14,139 min,Documentary
+s813,Movie,Title_813,Director_79,United States,"June 27, 2016",2015,TV-PG,123 min,Drama
+s814,Movie,Title_814,Director_74,France,"February 21, 2016",2016,TV-MA,72 min,Children & Family
+s815,Movie,Title_815,Director_329,France,"March 03, 2016",2015,TV-G,87 min,Sci-Fi & Fantasy
+s816,Movie,Title_816,Director_233,Brazil,"July 20, 2016",2016,R,93 min,Animation
+s817,Movie,Title_817,Director_310,Spain,"April 06, 2016",2014,TV-14,124 min,Documentary
+s818,Movie,Title_818,Director_475,Germany,"September 09, 2016",2016,TV-MA,122 min,Action & Adventure
+s819,Movie,Title_819,Director_58,United States,"August 23, 2016",2016,TV-MA,117 min,Action & Adventure
+s820,Movie,Title_820,Director_239,France,"December 17, 2016",2016,TV-MA,105 min,Documentary
+s821,Movie,Title_821,Director_492,Brazil,"August 21, 2016",2016,TV-MA,154 min,Drama
+s822,Movie,Title_822,Director_463,Canada,"May 20, 2016",2015,PG-13,76 min,Drama
+s823,Movie,Title_823,Director_216,United States,"August 19, 2016",2015,TV-14,112 min,Action & Adventure
+s824,Movie,Title_824,Director_384,Spain,"January 23, 2016",2015,TV-MA,146 min,International
+s825,Movie,Title_825,Director_294,United Kingdom,"August 19, 2016",2014,TV-MA,91 min,Horror
+s826,Movie,Title_826,Director_43,United States,"January 10, 2016",2014,R,132 min,Thriller
+s827,Movie,Title_827,Director_141,Germany,"March 20, 2016",2015,TV-MA,105 min,Action & Adventure
+s828,Movie,Title_828,Director_338,United States,"October 24, 2016",2015,TV-MA,89 min,Drama
+s829,Movie,Title_829,Director_410,United States,"April 16, 2016",2016,PG-13,93 min,Comedy
+s830,Movie,Title_830,Director_429,United States,"March 20, 2016",2015,TV-MA,89 min,Animation
+s831,Movie,Title_831,Director_86,India,"November 15, 2016",2014,TV-14,151 min,Romance
+s832,Movie,Title_832,Director_27,Germany,"May 25, 2016",2014,TV-MA,84 min,Action & Adventure
+s833,Movie,Title_833,Director_350,India,"September 08, 2016",2016,TV-14,118 min,Documentary
+s834,Movie,Title_834,Director_475,United States,"July 01, 2016",2015,TV-14,106 min,Documentary
+s835,Movie,Title_835,Director_327,United States,"January 04, 2016",2015,TV-14,138 min,Documentary
+s836,Movie,Title_836,Director_137,India,"May 11, 2016",2014,G,104 min,International
+s837,Movie,Title_837,Director_376,United Kingdom,"November 24, 2016",2016,TV-14,100 min,Comedy
+s838,Movie,Title_838,Director_281,United States,"December 06, 2016",2014,TV-14,110 min,Action & Adventure
+s839,Movie,Title_839,Director_351,Germany,"February 17, 2016",2015,TV-MA,83 min,Horror
+s840,Movie,Title_840,Director_48,Japan,"January 01, 2016",2014,TV-MA,149 min,Comedy
+s841,Movie,Title_841,Director_363,France,"October 21, 2016",2014,PG-13,85 min,Stand-Up Comedy
+s842,Movie,Title_842,Director_459,Canada,"November 19, 2016",2014,TV-14,93 min,Drama
+s843,Movie,Title_843,Director_473,United States,"February 21, 2016",2015,TV-14,128 min,Horror
+s844,Movie,Title_844,Director_400,France,"June 09, 2016",2014,TV-PG,90 min,Romance
+s845,Movie,Title_845,Director_92,United States,"January 09, 2016",2015,TV-14,103 min,Comedy
+s846,Movie,Title_846,Director_252,Italy,"July 06, 2016",2014,TV-MA,152 min,Drama
+s847,Movie,Title_847,Director_367,South Korea,"November 04, 2016",2015,TV-MA,126 min,Drama
+s848,Movie,Title_848,Director_10,United States,"May 25, 2016",2015,TV-PG,127 min,Drama
+s849,Movie,Title_849,Director_78,Canada,"November 13, 2016",2016,G,104 min,Drama
+s850,Movie,Title_850,Director_245,India,"December 25, 2016",2015,TV-MA,132 min,Comedy
+s851,Movie,Title_851,Director_2,Japan,"February 18, 2016",2015,PG-13,98 min,Documentary
+s852,Movie,Title_852,Director_171,Spain,"October 18, 2016",2016,TV-14,115 min,International
+s853,Movie,Title_853,Director_274,United States,"November 03, 2016",2015,TV-Y7,116 min,Comedy
+s854,Movie,Title_854,Director_284,India,"November 07, 2016",2014,R,92 min,Drama
+s855,Movie,Title_855,Director_353,France,"July 04, 2016",2015,TV-MA,150 min,International
+s856,Movie,Title_856,Director_99,Mexico,"April 05, 2016",2014,TV-14,74 min,Documentary
+s857,Movie,Title_857,Director_330,United Kingdom,"February 26, 2016",2015,TV-14,139 min,Horror
+s858,Movie,Title_858,Director_29,Turkey,"January 02, 2016",2015,PG-13,113 min,Action & Adventure
+s859,Movie,Title_859,Director_235,United States,"November 22, 2016",2016,TV-MA,136 min,Romance
+s860,Movie,Title_860,Director_377,United Kingdom,"April 03, 2016",2014,R,74 min,Animation
+s861,Movie,Title_861,Director_360,United States,"October 02, 2016",2016,PG,101 min,Documentary
+s862,Movie,Title_862,Director_234,United States,"May 27, 2016",2016,TV-MA,82 min,Drama
+s863,Movie,Title_863,Director_305,United Kingdom,"February 04, 2016",2016,PG-13,133 min,Drama
+s864,Movie,Title_864,Director_167,Spain,"December 22, 2016",2014,TV-14,121 min,Comedy
+s865,Movie,Title_865,Director_304,United Kingdom,"April 25, 2016",2014,TV-MA,75 min,Reality TV
+s866,Movie,Title_866,Director_190,United States,"July 06, 2016",2016,TV-MA,159 min,Comedy
+s867,Movie,Title_867,Director_314,United States,"March 04, 2016",2015,TV-PG,150 min,Drama
+s868,Movie,Title_868,Director_475,United States,"January 01, 2016",2014,TV-14,92 min,Romance
+s869,Movie,Title_869,Director_355,United Kingdom,"December 26, 2016",2014,TV-MA,130 min,Horror
+s870,Movie,Title_870,Director_313,Canada,"July 08, 2016",2016,TV-14,92 min,Drama
+s871,Movie,Title_871,Director_179,United States,"February 21, 2016",2015,TV-14,108 min,Drama
+s872,Movie,Title_872,Director_186,United States,"September 04, 2016",2016,TV-MA,149 min,Drama
+s873,Movie,Title_873,Director_100,India,"April 09, 2016",2014,TV-PG,76 min,Action & Adventure
+s874,Movie,Title_874,Director_82,France,"August 16, 2016",2016,NR,92 min,Crime
+s875,Movie,Title_875,Director_172,United States,"April 14, 2016",2016,TV-14,102 min,Stand-Up Comedy
+s876,Movie,Title_876,Director_91,South Korea,"December 02, 2016",2014,TV-MA,138 min,Crime
+s877,Movie,Title_877,Director_304,India,"April 24, 2016",2016,TV-MA,126 min,Romance
+s878,Movie,Title_878,Director_167,United States,"June 08, 2016",2014,R,84 min,Comedy
+s879,Movie,Title_879,Director_242,Japan,"July 08, 2016",2016,PG,79 min,Drama
+s880,Movie,Title_880,Director_199,Brazil,"October 15, 2016",2015,TV-MA,92 min,Documentary
+s881,Movie,Title_881,Director_66,Japan,"May 07, 2016",2014,TV-PG,112 min,Drama
+s882,Movie,Title_882,Director_88,United States,"August 15, 2016",2015,TV-MA,123 min,Horror
+s883,Movie,Title_883,Director_296,United States,"November 20, 2016",2016,TV-MA,91 min,Drama
+s884,Movie,Title_884,Director_303,United States,"August 28, 2016",2015,PG,97 min,Animation
+s885,Movie,Title_885,Director_127,United States,"December 28, 2016",2015,R,101 min,Crime
+s886,TV Show,Title_886,Director_23,United States,"March 19, 2016",2014,G,1 Seasons,Documentary
+s887,TV Show,Title_887,Director_409,Japan,"July 17, 2016",2016,TV-14,7 Seasons,Children & Family
+s888,TV Show,Title_888,Director_209,India,"September 25, 2016",2014,TV-MA,1 Seasons,Crime
+s889,TV Show,Title_889,Director_83,United States,"February 01, 2016",2016,TV-PG,8 Seasons,Drama
+s890,TV Show,Title_890,Director_208,United Kingdom,"August 15, 2016",2014,TV-PG,3 Seasons,Documentary
+s891,TV Show,Title_891,Director_354,India,"November 01, 2016",2015,TV-14,2 Season,Romance
+s892,TV Show,Title_892,Director_42,United States,"December 20, 2016",2016,R,4 Seasons,Action & Adventure
+s893,TV Show,Title_893,Director_188,Japan,"November 12, 2016",2015,TV-MA,1 Season,Sci-Fi & Fantasy
+s894,TV Show,Title_894,Director_397,India,"September 23, 2016",2014,TV-MA,2 Seasons,Thriller
+s895,TV Show,Title_895,Director_390,United States,"November 16, 2016",2014,TV-14,4 Seasons,Drama
+s896,TV Show,Title_896,Director_177,Brazil,"July 09, 2016",2015,TV-14,1 Season,Comedy
+s897,TV Show,Title_897,Director_189,United Kingdom,"December 18, 2016",2016,TV-MA,5 Seasons,Documentary
+s898,TV Show,Title_898,Director_201,Spain,"February 07, 2016",2014,NR,8 Season,Stand-Up Comedy
+s899,TV Show,Title_899,Director_448,Nigeria,"May 04, 2016",2014,TV-MA,3 Seasons,Comedy
+s900,TV Show,Title_900,Director_216,Canada,"November 18, 2016",2015,TV-MA,3 Seasons,Action & Adventure
+s901,TV Show,Title_901,Director_267,United States,"January 28, 2016",2016,TV-MA,4 Seasons,Romance
+s902,TV Show,Title_902,Director_291,United Kingdom,"June 16, 2016",2014,TV-PG,8 Seasons,Comedy
+s903,TV Show,Title_903,Director_395,United States,"April 16, 2016",2014,PG-13,6 Seasons,Sci-Fi & Fantasy
+s904,TV Show,Title_904,Director_90,United States,"October 06, 2016",2016,NR,5 Season,Drama
+s905,TV Show,Title_905,Director_295,France,"April 04, 2016",2014,TV-MA,1 Seasons,Horror
+s906,TV Show,Title_906,Director_76,India,"December 02, 2016",2015,TV-MA,6 Seasons,Documentary
+s907,TV Show,Title_907,Director_394,Turkey,"February 01, 2016",2014,TV-14,7 Seasons,Documentary
+s908,TV Show,Title_908,Director_152,Australia,"December 18, 2016",2015,TV-MA,6 Seasons,Stand-Up Comedy
+s909,TV Show,Title_909,Director_374,Turkey,"October 22, 2016",2015,R,3 Seasons,Sci-Fi & Fantasy
+s910,TV Show,Title_910,Director_206,United States,"January 05, 2016",2016,TV-14,2 Season,Comedy
+s911,TV Show,Title_911,Director_114,India,"January 20, 2016",2015,TV-MA,4 Seasons,Animation
+s912,TV Show,Title_912,Director_202,United States,"November 22, 2016",2014,PG-13,2 Seasons,Drama
+s913,TV Show,Title_913,Director_367,Canada,"January 22, 2016",2015,TV-14,6 Season,Action & Adventure
+s914,TV Show,Title_914,Director_45,India,"June 10, 2016",2014,TV-MA,8 Seasons,Comedy
+s915,TV Show,Title_915,Director_497,India,"August 10, 2016",2015,TV-Y7,3 Seasons,Horror
+s916,TV Show,Title_916,Director_244,India,"October 03, 2016",2016,PG-13,3 Season,Horror
+s917,TV Show,Title_917,Director_469,United States,"July 03, 2016",2015,NR,1 Seasons,Reality TV
+s918,TV Show,Title_918,Director_149,United Kingdom,"March 07, 2016",2016,R,3 Seasons,Documentary
+s919,TV Show,Title_919,Director_238,Spain,"October 10, 2016",2014,TV-14,8 Seasons,Action & Adventure
+s920,TV Show,Title_920,Director_341,United States,"November 27, 2016",2015,TV-MA,8 Season,Drama
+s921,TV Show,Title_921,Director_253,India,"April 01, 2016",2014,R,2 Seasons,Documentary
+s922,TV Show,Title_922,Director_244,India,"July 28, 2016",2016,TV-14,5 Seasons,Thriller
+s923,TV Show,Title_923,Director_30,India,"January 28, 2016",2014,R,5 Season,Crime
+s924,TV Show,Title_924,Director_326,Mexico,"March 02, 2016",2015,TV-MA,5 Season,Comedy
+s925,TV Show,Title_925,Director_94,United States,"February 17, 2016",2014,TV-PG,4 Seasons,Drama
+s926,TV Show,Title_926,Director_358,United States,"June 27, 2016",2016,TV-14,5 Season,Thriller
+s927,TV Show,Title_927,Director_191,United Kingdom,"March 01, 2016",2015,TV-14,3 Seasons,Comedy
+s928,TV Show,Title_928,Director_408,Australia,"April 05, 2016",2016,TV-MA,4 Seasons,Documentary
+s929,TV Show,Title_929,Director_470,Germany,"September 23, 2016",2014,TV-14,2 Seasons,Thriller
+s930,TV Show,Title_930,Director_227,United States,"June 10, 2016",2016,TV-MA,6 Season,Drama
+s931,TV Show,Title_931,Director_439,Turkey,"May 01, 2016",2016,TV-MA,2 Season,Action & Adventure
+s932,TV Show,Title_932,Director_402,United States,"March 03, 2016",2014,TV-MA,7 Seasons,Drama
+s933,TV Show,Title_933,Director_338,South Korea,"January 07, 2016",2016,R,2 Season,Drama
+s934,Movie,Title_934,Director_342,India,"January 03, 2017",2015,PG,108 min,Thriller
+s935,Movie,Title_935,Director_95,South Korea,"April 19, 2017",2017,G,95 min,Romance
+s936,Movie,Title_936,Director_181,United States,"May 19, 2017",2015,PG-13,114 min,Comedy
+s937,Movie,Title_937,Director_51,South Korea,"September 19, 2017",2017,TV-PG,78 min,Animation
+s938,Movie,Title_938,Director_3,United Kingdom,"May 06, 2017",2017,R,138 min,Romance
+s939,Movie,Title_939,Director_358,United States,"December 16, 2017",2017,TV-14,116 min,Drama
+s940,Movie,Title_940,Director_110,France,"June 13, 2017",2017,TV-MA,124 min,Drama
+s941,Movie,Title_941,Director_267,United States,"February 15, 2017",2015,TV-G,84 min,Comedy
+s942,Movie,Title_942,Director_168,India,"December 02, 2017",2016,TV-MA,80 min,Action & Adventure
+s943,Movie,Title_943,Director_116,United States,"May 22, 2017",2017,TV-PG,126 min,Drama
+s944,Movie,Title_944,Director_481,Italy,"February 27, 2017",2017,TV-14,130 min,Documentary
+s945,Movie,Title_945,Director_225,United States,"November 04, 2017",2017,R,120 min,Comedy
+s946,Movie,Title_946,Director_53,United States,"July 23, 2017",2017,TV-MA,145 min,Thriller
+s947,Movie,Title_947,Director_305,Turkey,"April 11, 2017",2016,TV-MA,95 min,Stand-Up Comedy
+s948,Movie,Title_948,Director_304,Germany,"May 25, 2017",2016,R,144 min,Drama
+s949,Movie,Title_949,Director_309,Spain,"June 16, 2017",2016,NR,155 min,Romance
+s950,Movie,Title_950,Director_129,India,"August 04, 2017",2016,TV-MA,85 min,Reality TV
+s951,Movie,Title_951,Director_426,Canada,"February 24, 2017",2015,TV-MA,76 min,Action & Adventure
+s952,Movie,Title_952,Director_79,United States,"October 22, 2017",2016,TV-MA,111 min,Action & Adventure
+s953,Movie,Title_953,Director_406,United States,"September 25, 2017",2016,TV-MA,133 min,Thriller
+s954,Movie,Title_954,Director_415,France,"May 18, 2017",2017,TV-14,113 min,Drama
+s955,Movie,Title_955,Director_231,Nigeria,"July 04, 2017",2016,TV-MA,119 min,Action & Adventure
+s956,Movie,Title_956,Director_441,India,"March 18, 2017",2016,TV-MA,154 min,Animation
+s957,Movie,Title_957,Director_250,United States,"May 23, 2017",2015,TV-14,119 min,Sci-Fi & Fantasy
+s958,Movie,Title_958,Director_244,India,"September 19, 2017",2017,TV-PG,130 min,Action & Adventure
+s959,Movie,Title_959,Director_316,India,"August 19, 2017",2017,TV-14,118 min,Animation
+s960,Movie,Title_960,Director_66,Turkey,"January 19, 2017",2016,TV-14,75 min,Comedy
+s961,Movie,Title_961,Director_50,Japan,"November 11, 2017",2016,TV-MA,118 min,Comedy
+s962,Movie,Title_962,Director_121,United States,"November 08, 2017",2017,TV-14,101 min,Comedy
+s963,Movie,Title_963,Director_87,United States,"May 04, 2017",2015,R,113 min,Comedy
+s964,Movie,Title_964,Director_462,United States,"July 19, 2017",2016,TV-PG,135 min,Action & Adventure
+s965,Movie,Title_965,Director_200,France,"June 13, 2017",2016,TV-PG,143 min,Comedy
+s966,Movie,Title_966,Director_255,Spain,"November 07, 2017",2017,TV-MA,113 min,Action & Adventure
+s967,Movie,Title_967,Director_104,France,"May 12, 2017",2016,TV-MA,125 min,Crime
+s968,Movie,Title_968,Director_136,Turkey,"September 07, 2017",2015,TV-MA,106 min,Thriller
+s969,Movie,Title_969,Director_368,United Kingdom,"October 24, 2017",2017,PG-13,81 min,Comedy
+s970,Movie,Title_970,Director_108,United States,"September 16, 2017",2016,TV-MA,124 min,Drama
+s971,Movie,Title_971,Director_277,France,"May 14, 2017",2016,TV-14,154 min,Crime
+s972,Movie,Title_972,Director_93,India,"August 22, 2017",2015,TV-PG,140 min,Drama
+s973,Movie,Title_973,Director_493,United Kingdom,"August 07, 2017",2017,TV-MA,154 min,Thriller
+s974,Movie,Title_974,Director_479,United States,"October 28, 2017",2017,TV-PG,125 min,Stand-Up Comedy
+s975,Movie,Title_975,Director_78,United States,"August 05, 2017",2017,TV-MA,100 min,Horror
+s976,Movie,Title_976,Director_325,United States,"June 28, 2017",2015,TV-14,78 min,Horror
+s977,Movie,Title_977,Director_308,United States,"March 09, 2017",2015,TV-MA,157 min,Animation
+s978,Movie,Title_978,Director_238,United States,"April 26, 2017",2016,TV-MA,109 min,Documentary
+s979,Movie,Title_979,Director_140,India,"January 07, 2017",2015,TV-PG,90 min,Action & Adventure
+s980,Movie,Title_980,Director_437,South Korea,"September 06, 2017",2015,TV-MA,152 min,Drama
+s981,Movie,Title_981,Director_153,India,"February 11, 2017",2015,TV-MA,147 min,International
+s982,Movie,Title_982,Director_483,India,"November 03, 2017",2017,TV-14,120 min,Sci-Fi & Fantasy
+s983,Movie,Title_983,Director_341,United States,"September 04, 2017",2017,TV-PG,136 min,Animation
+s984,Movie,Title_984,Director_63,Australia,"February 08, 2017",2016,TV-MA,146 min,Stand-Up Comedy
+s985,Movie,Title_985,Director_479,United Kingdom,"December 24, 2017",2016,TV-14,100 min,Comedy
+s986,Movie,Title_986,Director_131,United States,"May 15, 2017",2017,TV-MA,122 min,Drama
+s987,Movie,Title_987,Director_217,United Kingdom,"February 11, 2017",2016,R,139 min,Drama
+s988,Movie,Title_988,Director_367,Turkey,"March 12, 2017",2016,PG,130 min,Horror
+s989,Movie,Title_989,Director_410,United States,"October 02, 2017",2015,NR,154 min,Crime
+s990,Movie,Title_990,Director_328,South Korea,"September 13, 2017",2017,TV-MA,109 min,Horror
+s991,Movie,Title_991,Director_199,Spain,"April 28, 2017",2015,TV-MA,126 min,Comedy
+s992,Movie,Title_992,Director_480,India,"May 10, 2017",2015,TV-G,81 min,Sci-Fi & Fantasy
+s993,Movie,Title_993,Director_451,Mexico,"August 21, 2017",2017,TV-MA,110 min,Comedy
+s994,Movie,Title_994,Director_475,United States,"August 16, 2017",2016,PG,122 min,Documentary
+s995,Movie,Title_995,Director_260,Mexico,"March 23, 2017",2015,PG-13,103 min,Horror
+s996,Movie,Title_996,Director_356,Canada,"December 11, 2017",2015,PG-13,128 min,Comedy
+s997,Movie,Title_997,Director_70,Canada,"August 26, 2017",2015,TV-MA,152 min,Romance
+s998,Movie,Title_998,Director_128,Canada,"February 04, 2017",2017,TV-14,90 min,Documentary
+s999,Movie,Title_999,Director_352,South Korea,"March 28, 2017",2016,TV-PG,146 min,Horror
+s1000,Movie,Title_1000,Director_89,United States,"December 05, 2017",2017,TV-14,103 min,Crime
+s1001,Movie,Title_1001,Director_94,United States,"February 14, 2017",2016,TV-MA,117 min,Thriller
+s1002,Movie,Title_1002,Director_473,Nigeria,"April 01, 2017",2017,PG,72 min,Animation
+s1003,Movie,Title_1003,Director_360,Canada,"August 07, 2017",2015,PG,103 min,Thriller
+s1004,Movie,Title_1004,Director_88,Canada,"March 03, 2017",2017,TV-PG,117 min,Drama
+s1005,Movie,Title_1005,Director_254,Japan,"August 27, 2017",2015,TV-14,156 min,Drama
+s1006,Movie,Title_1006,Director_196,United States,"May 10, 2017",2015,NR,133 min,Comedy
+s1007,Movie,Title_1007,Director_97,United States,"May 24, 2017",2016,TV-MA,156 min,Documentary
+s1008,Movie,Title_1008,Director_231,South Korea,"May 08, 2017",2015,TV-MA,149 min,Drama
+s1009,Movie,Title_1009,Director_447,France,"January 16, 2017",2016,TV-14,87 min,Comedy
+s1010,Movie,Title_1010,Director_377,India,"July 23, 2017",2017,TV-MA,124 min,Reality TV
+s1011,Movie,Title_1011,Director_466,United States,"June 08, 2017",2016,TV-MA,130 min,Comedy
+s1012,Movie,Title_1012,Director_3,Nigeria,"October 23, 2017",2016,NR,75 min,Children & Family
+s1013,Movie,Title_1013,Director_496,India,"November 12, 2017",2017,TV-G,86 min,Action & Adventure
+s1014,Movie,Title_1014,Director_68,United States,"August 11, 2017",2015,TV-MA,129 min,Drama
+s1015,TV Show,Title_1015,Director_256,United Kingdom,"February 11, 2017",2016,TV-MA,1 Seasons,Comedy
+s1016,TV Show,Title_1016,Director_224,Australia,"May 20, 2017",2015,TV-MA,5 Seasons,Romance
+s1017,TV Show,Title_1017,Director_77,Italy,"March 18, 2017",2015,R,8 Season,Comedy
+s1018,TV Show,Title_1018,Director_459,United States,"December 15, 2017",2016,TV-MA,7 Season,Comedy
+s1019,TV Show,Title_1019,Director_369,United States,"August 15, 2017",2015,R,8 Season,Drama
+s1020,TV Show,Title_1020,Director_422,United States,"March 27, 2017",2016,PG,3 Seasons,Drama
+s1021,TV Show,Title_1021,Director_40,France,"January 17, 2017",2015,TV-MA,3 Seasons,Action & Adventure
+s1022,TV Show,Title_1022,Director_303,France,"January 10, 2017",2015,PG,2 Season,Romance
+s1023,TV Show,Title_1023,Director_490,United States,"December 22, 2017",2016,TV-MA,8 Seasons,Crime
+s1024,TV Show,Title_1024,Director_375,United States,"November 20, 2017",2017,NR,8 Season,Thriller
+s1025,TV Show,Title_1025,Director_29,Spain,"January 26, 2017",2017,TV-MA,5 Season,Sci-Fi & Fantasy
+s1026,TV Show,Title_1026,Director_395,Nigeria,"July 09, 2017",2016,TV-14,3 Season,Drama
+s1027,TV Show,Title_1027,Director_252,Germany,"July 10, 2017",2016,TV-MA,3 Season,Drama
+s1028,TV Show,Title_1028,Director_427,Australia,"October 05, 2017",2016,PG,6 Seasons,Romance
+s1029,TV Show,Title_1029,Director_217,India,"August 09, 2017",2016,PG,7 Season,Action & Adventure
+s1030,TV Show,Title_1030,Director_347,India,"January 17, 2017",2015,TV-14,6 Seasons,Thriller
+s1031,TV Show,Title_1031,Director_224,Japan,"September 21, 2017",2015,G,2 Season,Thriller
+s1032,TV Show,Title_1032,Director_268,India,"March 22, 2017",2016,TV-MA,5 Seasons,Sci-Fi & Fantasy
+s1033,TV Show,Title_1033,Director_212,United States,"January 17, 2017",2015,TV-MA,2 Seasons,Comedy
+s1034,TV Show,Title_1034,Director_9,Japan,"June 09, 2017",2015,PG-13,2 Seasons,Documentary
+s1035,TV Show,Title_1035,Director_361,India,"July 02, 2017",2016,PG-13,2 Seasons,Romance
+s1036,TV Show,Title_1036,Director_471,Japan,"August 20, 2017",2015,R,5 Season,Comedy
+s1037,TV Show,Title_1037,Director_10,United States,"May 28, 2017",2015,TV-G,2 Seasons,Drama
+s1038,TV Show,Title_1038,Director_495,United States,"August 23, 2017",2017,TV-PG,7 Seasons,Documentary
+s1039,TV Show,Title_1039,Director_45,India,"October 12, 2017",2015,TV-PG,7 Seasons,Thriller
+s1040,TV Show,Title_1040,Director_333,United States,"December 07, 2017",2015,PG-13,1 Season,Drama
+s1041,TV Show,Title_1041,Director_238,India,"September 07, 2017",2015,TV-PG,2 Season,Thriller
+s1042,TV Show,Title_1042,Director_242,United States,"March 24, 2017",2015,TV-MA,8 Seasons,Documentary
+s1043,TV Show,Title_1043,Director_5,United Kingdom,"October 27, 2017",2015,TV-MA,7 Season,Animation
+s1044,TV Show,Title_1044,Director_205,Japan,"August 24, 2017",2016,TV-G,5 Season,Thriller
+s1045,TV Show,Title_1045,Director_217,Japan,"August 08, 2017",2017,G,1 Seasons,Action & Adventure
+s1046,TV Show,Title_1046,Director_481,United States,"July 16, 2017",2017,PG,2 Seasons,Comedy
+s1047,TV Show,Title_1047,Director_225,France,"May 24, 2017",2015,TV-MA,4 Seasons,Comedy
+s1048,TV Show,Title_1048,Director_151,United Kingdom,"October 28, 2017",2017,R,8 Season,Action & Adventure
+s1049,TV Show,Title_1049,Director_410,Turkey,"November 21, 2017",2015,PG-13,6 Seasons,Horror
+s1050,TV Show,Title_1050,Director_81,United States,"November 16, 2017",2017,R,3 Season,Thriller
+s1051,TV Show,Title_1051,Director_25,South Korea,"August 10, 2017",2015,NR,4 Season,Action & Adventure
+s1052,TV Show,Title_1052,Director_173,United States,"March 27, 2017",2016,R,1 Seasons,Comedy
+s1053,TV Show,Title_1053,Director_394,United States,"August 09, 2017",2015,TV-PG,6 Seasons,Drama
+s1054,TV Show,Title_1054,Director_475,United Kingdom,"December 28, 2017",2016,PG,2 Seasons,Romance
+s1055,TV Show,Title_1055,Director_22,Turkey,"February 26, 2017",2017,R,2 Seasons,Crime
+s1056,TV Show,Title_1056,Director_391,Canada,"June 06, 2017",2017,PG,5 Seasons,Drama
+s1057,TV Show,Title_1057,Director_104,Mexico,"June 11, 2017",2016,TV-MA,3 Season,Action & Adventure
+s1058,TV Show,Title_1058,Director_44,South Korea,"August 11, 2017",2016,TV-MA,5 Seasons,International
+s1059,TV Show,Title_1059,Director_272,South Korea,"November 08, 2017",2016,TV-14,3 Seasons,Documentary
+s1060,TV Show,Title_1060,Director_227,United States,"July 15, 2017",2015,TV-14,6 Seasons,Romance
+s1061,TV Show,Title_1061,Director_396,Japan,"February 03, 2017",2015,TV-14,6 Season,Romance
+s1062,TV Show,Title_1062,Director_366,India,"November 05, 2017",2017,TV-MA,1 Seasons,Documentary
+s1063,TV Show,Title_1063,Director_161,Turkey,"November 23, 2017",2016,TV-14,5 Seasons,Animation
+s1064,TV Show,Title_1064,Director_106,United States,"March 23, 2017",2017,TV-14,7 Seasons,Drama
+s1065,TV Show,Title_1065,Director_452,Canada,"June 26, 2017",2016,TV-14,7 Seasons,Thriller
+s1066,Movie,Title_1066,Director_267,United Kingdom,"December 24, 2018",2018,TV-14,86 min,Drama
+s1067,Movie,Title_1067,Director_82,United States,"September 11, 2018",2016,TV-PG,151 min,Comedy
+s1068,Movie,Title_1068,Director_372,Spain,"April 27, 2018",2017,TV-PG,108 min,Drama
+s1069,Movie,Title_1069,Director_260,United States,"June 09, 2018",2017,TV-MA,150 min,Reality TV
+s1070,Movie,Title_1070,Director_378,South Korea,"August 10, 2018",2016,NR,143 min,Drama
+s1071,Movie,Title_1071,Director_341,Italy,"October 19, 2018",2018,PG-13,150 min,Documentary
+s1072,Movie,Title_1072,Director_345,United States,"November 26, 2018",2016,TV-MA,143 min,Animation
+s1073,Movie,Title_1073,Director_99,United Kingdom,"June 17, 2018",2017,TV-MA,144 min,Horror
+s1074,Movie,Title_1074,Director_32,United States,"July 03, 2018",2017,TV-14,81 min,Documentary
+s1075,Movie,Title_1075,Director_207,India,"June 22, 2018",2018,TV-14,137 min,Sci-Fi & Fantasy
+s1076,Movie,Title_1076,Director_217,South Korea,"October 16, 2018",2017,PG,151 min,Action & Adventure
+s1077,Movie,Title_1077,Director_74,Nigeria,"July 27, 2018",2018,R,90 min,Horror
+s1078,Movie,Title_1078,Director_61,Japan,"December 17, 2018",2018,TV-MA,137 min,Drama
+s1079,Movie,Title_1079,Director_309,India,"September 12, 2018",2017,R,85 min,Drama
+s1080,Movie,Title_1080,Director_191,India,"September 05, 2018",2017,TV-MA,85 min,Drama
+s1081,Movie,Title_1081,Director_216,United States,"March 05, 2018",2016,TV-14,145 min,Children & Family
+s1082,Movie,Title_1082,Director_2,United States,"March 27, 2018",2016,TV-MA,132 min,Stand-Up Comedy
+s1083,Movie,Title_1083,Director_290,United States,"August 19, 2018",2017,TV-MA,109 min,Action & Adventure
+s1084,Movie,Title_1084,Director_68,South Korea,"December 27, 2018",2016,TV-14,147 min,Sci-Fi & Fantasy
+s1085,Movie,Title_1085,Director_46,India,"August 05, 2018",2018,TV-14,111 min,Action & Adventure
+s1086,Movie,Title_1086,Director_24,India,"July 11, 2018",2018,TV-MA,139 min,Thriller
+s1087,Movie,Title_1087,Director_293,Japan,"March 23, 2018",2018,TV-PG,73 min,Sci-Fi & Fantasy
+s1088,Movie,Title_1088,Director_44,Japan,"February 21, 2018",2016,TV-PG,141 min,Crime
+s1089,Movie,Title_1089,Director_385,United Kingdom,"October 17, 2018",2017,R,94 min,International
+s1090,Movie,Title_1090,Director_141,United States,"September 06, 2018",2016,TV-PG,72 min,Action & Adventure
+s1091,Movie,Title_1091,Director_311,Japan,"August 03, 2018",2017,PG,138 min,Comedy
+s1092,Movie,Title_1092,Director_93,United States,"January 11, 2018",2017,PG,125 min,Documentary
+s1093,Movie,Title_1093,Director_278,United Kingdom,"February 04, 2018",2016,TV-14,82 min,Drama
+s1094,Movie,Title_1094,Director_348,United States,"March 10, 2018",2016,R,122 min,Comedy
+s1095,Movie,Title_1095,Director_200,Turkey,"December 02, 2018",2016,TV-MA,108 min,Drama
+s1096,Movie,Title_1096,Director_27,India,"July 27, 2018",2016,TV-14,85 min,Comedy
+s1097,Movie,Title_1097,Director_198,United Kingdom,"September 25, 2018",2016,TV-MA,134 min,Comedy
+s1098,Movie,Title_1098,Director_209,United States,"February 16, 2018",2018,TV-PG,73 min,Comedy
+s1099,Movie,Title_1099,Director_127,Mexico,"October 22, 2018",2018,TV-MA,82 min,Comedy
+s1100,Movie,Title_1100,Director_257,United States,"August 03, 2018",2016,TV-PG,151 min,Thriller
+s1101,Movie,Title_1101,Director_276,United States,"March 26, 2018",2017,TV-14,101 min,Romance
+s1102,Movie,Title_1102,Director_149,United Kingdom,"August 27, 2018",2018,TV-MA,149 min,International
+s1103,Movie,Title_1103,Director_129,United States,"August 09, 2018",2018,G,146 min,Reality TV
+s1104,Movie,Title_1104,Director_145,United States,"October 27, 2018",2016,TV-PG,135 min,Documentary
+s1105,Movie,Title_1105,Director_63,United Kingdom,"February 13, 2018",2016,TV-MA,159 min,Drama
+s1106,Movie,Title_1106,Director_491,Italy,"April 20, 2018",2017,PG,134 min,Horror
+s1107,Movie,Title_1107,Director_126,Nigeria,"December 15, 2018",2018,TV-PG,104 min,Sci-Fi & Fantasy
+s1108,Movie,Title_1108,Director_468,United States,"October 11, 2018",2018,TV-14,72 min,Reality TV
+s1109,Movie,Title_1109,Director_89,Australia,"January 01, 2018",2017,TV-PG,156 min,Drama
+s1110,Movie,Title_1110,Director_404,France,"July 18, 2018",2018,TV-14,80 min,Action & Adventure
+s1111,Movie,Title_1111,Director_64,United Kingdom,"November 15, 2018",2017,PG,156 min,Thriller
+s1112,Movie,Title_1112,Director_5,India,"July 06, 2018",2016,TV-PG,159 min,Reality TV
+s1113,Movie,Title_1113,Director_389,Australia,"April 24, 2018",2017,TV-14,72 min,Documentary
+s1114,Movie,Title_1114,Director_414,Japan,"October 21, 2018",2018,TV-MA,108 min,Horror
+s1115,Movie,Title_1115,Director_464,Italy,"January 09, 2018",2018,NR,133 min,Comedy
+s1116,Movie,Title_1116,Director_446,United States,"November 13, 2018",2017,TV-MA,84 min,Horror
+s1117,Movie,Title_1117,Director_345,India,"November 24, 2018",2018,TV-PG,142 min,Action & Adventure
+s1118,Movie,Title_1118,Director_133,United States,"December 03, 2018",2018,TV-PG,86 min,Thriller
+s1119,Movie,Title_1119,Director_12,Mexico,"May 07, 2018",2018,R,156 min,Animation
+s1120,Movie,Title_1120,Director_329,Canada,"August 01, 2018",2018,R,124 min,Horror
+s1121,Movie,Title_1121,Director_141,United States,"July 28, 2018",2016,G,122 min,Stand-Up Comedy
+s1122,Movie,Title_1122,Director_25,India,"January 24, 2018",2017,TV-14,98 min,Horror
+s1123,Movie,Title_1123,Director_42,United Kingdom,"July 07, 2018",2018,TV-14,112 min,Sci-Fi & Fantasy
+s1124,Movie,Title_1124,Director_470,Italy,"December 14, 2018",2016,TV-MA,79 min,Crime
+s1125,Movie,Title_1125,Director_246,United States,"November 04, 2018",2017,TV-MA,73 min,Drama
+s1126,Movie,Title_1126,Director_127,United Kingdom,"June 27, 2018",2016,TV-PG,102 min,Crime
+s1127,Movie,Title_1127,Director_484,Turkey,"June 17, 2018",2016,PG-13,100 min,Documentary
+s1128,Movie,Title_1128,Director_64,Canada,"November 15, 2018",2016,R,144 min,Romance
+s1129,Movie,Title_1129,Director_32,Brazil,"December 03, 2018",2017,TV-14,86 min,Reality TV
+s1130,Movie,Title_1130,Director_287,Canada,"February 22, 2018",2016,TV-14,77 min,Drama
+s1131,Movie,Title_1131,Director_404,India,"July 08, 2018",2018,TV-MA,146 min,Comedy
+s1132,Movie,Title_1132,Director_52,India,"July 20, 2018",2017,TV-14,149 min,Thriller
+s1133,Movie,Title_1133,Director_99,France,"September 11, 2018",2016,TV-MA,145 min,Thriller
+s1134,Movie,Title_1134,Director_327,United Kingdom,"April 19, 2018",2018,TV-MA,86 min,Drama
+s1135,Movie,Title_1135,Director_71,India,"August 06, 2018",2016,R,101 min,Comedy
+s1136,Movie,Title_1136,Director_160,United States,"November 25, 2018",2018,TV-14,115 min,Drama
+s1137,Movie,Title_1137,Director_150,South Korea,"May 20, 2018",2017,TV-MA,113 min,Sci-Fi & Fantasy
+s1138,Movie,Title_1138,Director_260,United Kingdom,"March 02, 2018",2018,TV-PG,100 min,Reality TV
+s1139,Movie,Title_1139,Director_403,India,"April 21, 2018",2016,TV-MA,95 min,Animation
+s1140,Movie,Title_1140,Director_170,France,"August 20, 2018",2018,R,158 min,Comedy
+s1141,Movie,Title_1141,Director_233,United States,"June 06, 2018",2016,TV-MA,83 min,Action & Adventure
+s1142,Movie,Title_1142,Director_320,Australia,"December 08, 2018",2016,TV-PG,129 min,Action & Adventure
+s1143,Movie,Title_1143,Director_106,Japan,"June 26, 2018",2017,NR,118 min,Comedy
+s1144,Movie,Title_1144,Director_285,Italy,"February 12, 2018",2016,TV-14,73 min,Drama
+s1145,Movie,Title_1145,Director_102,India,"June 02, 2018",2016,TV-PG,73 min,Drama
+s1146,Movie,Title_1146,Director_126,United States,"March 11, 2018",2016,TV-MA,140 min,Comedy
+s1147,Movie,Title_1147,Director_71,United States,"February 01, 2018",2017,TV-MA,156 min,Drama
+s1148,Movie,Title_1148,Director_123,Mexico,"April 10, 2018",2017,TV-14,128 min,Thriller
+s1149,Movie,Title_1149,Director_61,France,"October 14, 2018",2016,NR,78 min,Crime
+s1150,Movie,Title_1150,Director_192,United States,"September 13, 2018",2017,TV-MA,158 min,Sci-Fi & Fantasy
+s1151,Movie,Title_1151,Director_301,Turkey,"January 25, 2018",2016,TV-MA,148 min,Thriller
+s1152,Movie,Title_1152,Director_408,United States,"April 02, 2018",2017,TV-MA,150 min,Animation
+s1153,Movie,Title_1153,Director_402,Germany,"August 07, 2018",2017,NR,80 min,Animation
+s1154,Movie,Title_1154,Director_385,Canada,"July 25, 2018",2018,TV-MA,152 min,Crime
+s1155,TV Show,Title_1155,Director_254,United Kingdom,"December 12, 2018",2017,TV-MA,8 Seasons,Documentary
+s1156,TV Show,Title_1156,Director_459,India,"October 21, 2018",2016,G,1 Season,Comedy
+s1157,TV Show,Title_1157,Director_192,United States,"July 13, 2018",2017,TV-MA,3 Seasons,Documentary
+s1158,TV Show,Title_1158,Director_22,United States,"August 17, 2018",2017,TV-MA,6 Season,Action & Adventure
+s1159,TV Show,Title_1159,Director_163,United States,"July 14, 2018",2017,TV-14,6 Seasons,Action & Adventure
+s1160,TV Show,Title_1160,Director_151,United States,"November 03, 2018",2018,TV-MA,6 Seasons,Documentary
+s1161,TV Show,Title_1161,Director_20,Canada,"April 04, 2018",2018,PG-13,2 Season,Action & Adventure
+s1162,TV Show,Title_1162,Director_310,United States,"May 24, 2018",2016,TV-14,5 Season,Drama
+s1163,TV Show,Title_1163,Director_178,Japan,"May 01, 2018",2017,R,5 Season,Children & Family
+s1164,TV Show,Title_1164,Director_117,Spain,"January 16, 2018",2016,R,3 Seasons,Stand-Up Comedy
+s1165,TV Show,Title_1165,Director_237,United States,"October 26, 2018",2017,TV-MA,8 Seasons,Horror
+s1166,TV Show,Title_1166,Director_437,United States,"December 14, 2018",2018,TV-MA,4 Seasons,Crime
+s1167,TV Show,Title_1167,Director_338,United States,"May 24, 2018",2017,PG,1 Seasons,Drama
+s1168,TV Show,Title_1168,Director_12,India,"July 25, 2018",2018,R,5 Season,Comedy
+s1169,TV Show,Title_1169,Director_105,Australia,"June 19, 2018",2017,TV-MA,7 Seasons,Romance
+s1170,TV Show,Title_1170,Director_156,India,"June 19, 2018",2016,TV-14,8 Seasons,Drama
+s1171,TV Show,Title_1171,Director_102,France,"December 20, 2018",2016,TV-MA,8 Season,Drama
+s1172,TV Show,Title_1172,Director_189,India,"May 22, 2018",2018,TV-MA,2 Seasons,Sci-Fi & Fantasy
+s1173,TV Show,Title_1173,Director_215,United States,"July 06, 2018",2017,PG,2 Season,Drama
+s1174,TV Show,Title_1174,Director_419,India,"April 05, 2018",2018,PG,4 Season,Romance
+s1175,TV Show,Title_1175,Director_351,United States,"May 19, 2018",2017,TV-PG,4 Seasons,Thriller
+s1176,TV Show,Title_1176,Director_127,United States,"February 27, 2018",2018,TV-MA,7 Seasons,Comedy
+s1177,TV Show,Title_1177,Director_148,United Kingdom,"August 19, 2018",2018,TV-14,1 Seasons,Comedy
+s1178,TV Show,Title_1178,Director_422,India,"December 26, 2018",2016,R,5 Season,Sci-Fi & Fantasy
+s1179,TV Show,Title_1179,Director_94,United States,"July 15, 2018",2018,TV-PG,7 Seasons,Documentary
+s1180,TV Show,Title_1180,Director_322,India,"April 28, 2018",2018,NR,3 Season,Action & Adventure
+s1181,TV Show,Title_1181,Director_391,Brazil,"December 07, 2018",2018,R,8 Seasons,Comedy
+s1182,TV Show,Title_1182,Director_85,India,"September 25, 2018",2017,R,6 Seasons,Drama
+s1183,TV Show,Title_1183,Director_382,United States,"November 23, 2018",2017,TV-MA,8 Season,Drama
+s1184,TV Show,Title_1184,Director_384,India,"February 23, 2018",2017,TV-MA,3 Season,Animation
+s1185,TV Show,Title_1185,Director_421,United States,"April 23, 2018",2017,TV-14,8 Season,Documentary
+s1186,TV Show,Title_1186,Director_380,United States,"February 06, 2018",2017,TV-MA,5 Season,Animation
+s1187,TV Show,Title_1187,Director_111,France,"May 05, 2018",2018,TV-MA,8 Season,Drama
+s1188,TV Show,Title_1188,Director_158,France,"December 02, 2018",2017,TV-MA,2 Season,Drama
+s1189,TV Show,Title_1189,Director_103,United States,"April 08, 2018",2016,PG-13,6 Seasons,Drama
+s1190,TV Show,Title_1190,Director_452,United States,"April 22, 2018",2016,TV-MA,2 Season,Drama
+s1191,TV Show,Title_1191,Director_418,Germany,"March 02, 2018",2017,TV-MA,7 Seasons,Crime
+s1192,TV Show,Title_1192,Director_110,Canada,"September 13, 2018",2016,TV-PG,7 Season,Comedy
+s1193,TV Show,Title_1193,Director_113,United States,"June 01, 2018",2016,TV-14,7 Season,Comedy
+s1194,TV Show,Title_1194,Director_393,United States,"January 03, 2018",2018,TV-PG,4 Seasons,Thriller
+s1195,TV Show,Title_1195,Director_308,Italy,"October 06, 2018",2017,R,5 Seasons,Action & Adventure
+s1196,TV Show,Title_1196,Director_390,France,"December 05, 2018",2018,R,6 Season,Reality TV
+s1197,TV Show,Title_1197,Director_328,Germany,"June 01, 2018",2018,TV-14,8 Season,Comedy
+s1198,TV Show,Title_1198,Director_378,United Kingdom,"April 01, 2018",2017,TV-G,2 Season,Comedy
+s1199,TV Show,Title_1199,Director_193,Canada,"June 16, 2018",2016,TV-MA,5 Season,Romance
+s1200,TV Show,Title_1200,Director_163,United States,"August 24, 2018",2018,R,6 Season,Thriller
+s1201,TV Show,Title_1201,Director_118,United States,"July 21, 2018",2018,PG-13,5 Seasons,Romance
+s1202,TV Show,Title_1202,Director_196,United States,"November 08, 2018",2018,TV-14,4 Seasons,Comedy
+s1203,TV Show,Title_1203,Director_73,India,"August 03, 2018",2016,TV-MA,4 Season,Comedy
+s1204,TV Show,Title_1204,Director_240,United States,"April 08, 2018",2017,TV-14,2 Seasons,Drama
+s1205,TV Show,Title_1205,Director_230,United States,"October 08, 2018",2018,TV-14,5 Season,Drama
+s1206,TV Show,Title_1206,Director_226,Mexico,"June 13, 2018",2017,TV-14,7 Season,Drama
+s1207,TV Show,Title_1207,Director_43,Japan,"August 01, 2018",2017,R,7 Seasons,Action & Adventure
+s1208,TV Show,Title_1208,Director_146,United States,"May 13, 2018",2017,R,8 Season,Thriller
+s1209,TV Show,Title_1209,Director_98,India,"December 16, 2018",2016,TV-14,4 Season,Action & Adventure
+s1210,TV Show,Title_1210,Director_497,India,"August 13, 2018",2018,R,7 Seasons,Drama
+s1211,TV Show,Title_1211,Director_472,India,"October 03, 2018",2016,TV-PG,7 Seasons,Documentary
+s1212,TV Show,Title_1212,Director_251,United Kingdom,"July 09, 2018",2018,TV-MA,6 Seasons,Documentary
+s1213,TV Show,Title_1213,Director_18,France,"July 24, 2018",2017,TV-PG,4 Season,Horror
+s1214,TV Show,Title_1214,Director_484,France,"November 05, 2018",2018,R,5 Seasons,Thriller
+s1215,Movie,Title_1215,Director_7,United States,"November 27, 2019",2017,TV-PG,90 min,Drama
+s1216,Movie,Title_1216,Director_499,Canada,"July 23, 2019",2017,G,145 min,Romance
+s1217,Movie,Title_1217,Director_155,United States,"July 09, 2019",2019,TV-14,158 min,Action & Adventure
+s1218,Movie,Title_1218,Director_386,France,"May 24, 2019",2019,TV-14,122 min,International
+s1219,Movie,Title_1219,Director_138,United States,"June 27, 2019",2019,TV-PG,88 min,Animation
+s1220,Movie,Title_1220,Director_1,Japan,"January 06, 2019",2017,R,132 min,Drama
+s1221,Movie,Title_1221,Director_88,France,"November 10, 2019",2017,TV-14,125 min,Drama
+s1222,Movie,Title_1222,Director_231,Japan,"March 17, 2019",2019,TV-MA,84 min,Documentary
+s1223,Movie,Title_1223,Director_133,United States,"March 26, 2019",2018,TV-MA,94 min,Crime
+s1224,Movie,Title_1224,Director_151,Brazil,"November 06, 2019",2017,TV-MA,80 min,Documentary
+s1225,Movie,Title_1225,Director_249,United States,"October 08, 2019",2019,TV-14,131 min,Documentary
+s1226,Movie,Title_1226,Director_405,United States,"January 22, 2019",2017,TV-MA,144 min,Romance
+s1227,Movie,Title_1227,Director_478,United Kingdom,"October 17, 2019",2018,TV-MA,104 min,Drama
+s1228,Movie,Title_1228,Director_162,United States,"June 22, 2019",2017,TV-14,113 min,Documentary
+s1229,Movie,Title_1229,Director_413,France,"January 12, 2019",2017,TV-14,112 min,Stand-Up Comedy
+s1230,Movie,Title_1230,Director_63,Mexico,"March 01, 2019",2019,TV-14,147 min,Drama
+s1231,Movie,Title_1231,Director_352,France,"June 15, 2019",2019,PG-13,149 min,Comedy
+s1232,Movie,Title_1232,Director_9,India,"January 21, 2019",2019,TV-PG,111 min,Animation
+s1233,Movie,Title_1233,Director_120,United States,"June 22, 2019",2019,PG-13,126 min,Comedy
+s1234,Movie,Title_1234,Director_338,Japan,"June 14, 2019",2019,PG-13,130 min,Documentary
+s1235,Movie,Title_1235,Director_446,Japan,"April 23, 2019",2019,TV-MA,88 min,Sci-Fi & Fantasy
+s1236,Movie,Title_1236,Director_408,South Korea,"January 05, 2019",2017,R,133 min,Animation
+s1237,Movie,Title_1237,Director_489,France,"August 06, 2019",2017,TV-14,127 min,Comedy
+s1238,Movie,Title_1238,Director_359,United Kingdom,"March 25, 2019",2017,TV-MA,154 min,Documentary
+s1239,Movie,Title_1239,Director_113,Italy,"June 13, 2019",2019,TV-MA,105 min,Drama
+s1240,Movie,Title_1240,Director_473,India,"February 22, 2019",2019,PG,87 min,Comedy
+s1241,Movie,Title_1241,Director_478,India,"June 28, 2019",2019,PG-13,98 min,Thriller
+s1242,Movie,Title_1242,Director_335,Canada,"July 23, 2019",2019,TV-PG,118 min,Romance
+s1243,Movie,Title_1243,Director_60,Turkey,"April 08, 2019",2018,TV-14,103 min,Romance
+s1244,Movie,Title_1244,Director_294,United States,"April 24, 2019",2018,R,84 min,Drama
+s1245,Movie,Title_1245,Director_32,United States,"December 01, 2019",2019,TV-14,109 min,Drama
+s1246,Movie,Title_1246,Director_409,Germany,"June 25, 2019",2019,TV-G,116 min,Action & Adventure
+s1247,Movie,Title_1247,Director_203,United States,"October 08, 2019",2017,TV-PG,83 min,Stand-Up Comedy
+s1248,Movie,Title_1248,Director_256,India,"May 27, 2019",2019,TV-MA,98 min,Action & Adventure
+s1249,Movie,Title_1249,Director_18,Canada,"November 28, 2019",2019,TV-MA,159 min,Documentary
+s1250,Movie,Title_1250,Director_294,India,"May 28, 2019",2018,R,160 min,Comedy
+s1251,Movie,Title_1251,Director_79,United States,"July 02, 2019",2019,TV-MA,112 min,Thriller
+s1252,Movie,Title_1252,Director_473,Japan,"December 24, 2019",2017,PG-13,76 min,Drama
+s1253,Movie,Title_1253,Director_12,Japan,"November 28, 2019",2019,TV-MA,90 min,Animation
+s1254,Movie,Title_1254,Director_201,India,"June 25, 2019",2017,TV-14,120 min,Documentary
+s1255,Movie,Title_1255,Director_202,United States,"April 23, 2019",2017,R,140 min,Action & Adventure
+s1256,Movie,Title_1256,Director_156,Japan,"January 28, 2019",2018,TV-PG,160 min,Drama
+s1257,Movie,Title_1257,Director_108,United Kingdom,"August 10, 2019",2017,TV-14,88 min,Thriller
+s1258,Movie,Title_1258,Director_53,United States,"June 24, 2019",2019,TV-PG,143 min,Crime
+s1259,Movie,Title_1259,Director_475,Mexico,"July 22, 2019",2017,TV-14,91 min,Romance
+s1260,Movie,Title_1260,Director_333,Turkey,"January 04, 2019",2018,TV-MA,135 min,Drama
+s1261,Movie,Title_1261,Director_61,Turkey,"July 08, 2019",2017,TV-PG,74 min,Thriller
+s1262,Movie,Title_1262,Director_398,United States,"March 21, 2019",2019,TV-PG,118 min,Documentary
+s1263,Movie,Title_1263,Director_196,France,"August 28, 2019",2018,TV-MA,153 min,Children & Family
+s1264,Movie,Title_1264,Director_251,India,"February 03, 2019",2019,TV-MA,85 min,Thriller
+s1265,Movie,Title_1265,Director_141,India,"October 19, 2019",2019,TV-MA,131 min,Thriller
+s1266,Movie,Title_1266,Director_223,Spain,"August 21, 2019",2018,TV-MA,159 min,Romance
+s1267,Movie,Title_1267,Director_417,United States,"September 06, 2019",2019,TV-MA,121 min,Action & Adventure
+s1268,Movie,Title_1268,Director_266,United Kingdom,"September 16, 2019",2019,TV-14,78 min,Drama
+s1269,Movie,Title_1269,Director_93,Spain,"April 22, 2019",2019,TV-PG,85 min,Action & Adventure
+s1270,Movie,Title_1270,Director_66,United States,"June 04, 2019",2019,TV-14,75 min,Horror
+s1271,Movie,Title_1271,Director_260,United States,"January 03, 2019",2018,TV-PG,85 min,Drama
+s1272,Movie,Title_1272,Director_154,United Kingdom,"November 01, 2019",2017,TV-14,101 min,Comedy
+s1273,Movie,Title_1273,Director_72,United Kingdom,"November 18, 2019",2019,PG-13,126 min,Stand-Up Comedy
+s1274,Movie,Title_1274,Director_262,United States,"June 20, 2019",2017,G,138 min,Action & Adventure
+s1275,Movie,Title_1275,Director_154,France,"January 07, 2019",2017,TV-MA,88 min,Horror
+s1276,Movie,Title_1276,Director_374,Canada,"June 09, 2019",2019,TV-MA,86 min,International
+s1277,Movie,Title_1277,Director_234,United Kingdom,"November 06, 2019",2017,TV-MA,121 min,Documentary
+s1278,Movie,Title_1278,Director_37,France,"March 18, 2019",2019,NR,96 min,Stand-Up Comedy
+s1279,Movie,Title_1279,Director_289,Italy,"April 23, 2019",2019,R,117 min,Romance
+s1280,Movie,Title_1280,Director_195,India,"March 11, 2019",2017,TV-MA,125 min,Thriller
+s1281,Movie,Title_1281,Director_281,United States,"September 04, 2019",2018,TV-MA,157 min,International
+s1282,Movie,Title_1282,Director_75,Canada,"June 25, 2019",2017,TV-14,104 min,Drama
+s1283,Movie,Title_1283,Director_401,United States,"April 13, 2019",2017,TV-G,83 min,Comedy
+s1284,Movie,Title_1284,Director_179,Japan,"August 04, 2019",2019,TV-14,137 min,Drama
+s1285,Movie,Title_1285,Director_163,United States,"February 02, 2019",2018,TV-MA,91 min,Action & Adventure
+s1286,Movie,Title_1286,Director_452,Spain,"September 18, 2019",2018,R,146 min,Drama
+s1287,Movie,Title_1287,Director_337,United States,"September 23, 2019",2017,TV-MA,89 min,Documentary
+s1288,Movie,Title_1288,Director_363,United Kingdom,"December 21, 2019",2017,TV-MA,117 min,Drama
+s1289,Movie,Title_1289,Director_258,India,"August 12, 2019",2018,TV-14,129 min,Horror
+s1290,Movie,Title_1290,Director_440,India,"April 10, 2019",2017,NR,151 min,Comedy
+s1291,Movie,Title_1291,Director_40,India,"February 21, 2019",2019,TV-14,80 min,Stand-Up Comedy
+s1292,Movie,Title_1292,Director_284,United States,"February 24, 2019",2018,TV-PG,106 min,Comedy
+s1293,Movie,Title_1293,Director_246,United States,"November 17, 2019",2018,NR,87 min,Crime
+s1294,Movie,Title_1294,Director_8,Italy,"December 04, 2019",2019,PG,121 min,Action & Adventure
+s1295,Movie,Title_1295,Director_384,Germany,"July 23, 2019",2018,TV-MA,138 min,Drama
+s1296,Movie,Title_1296,Director_22,Japan,"September 22, 2019",2019,NR,147 min,Comedy
+s1297,Movie,Title_1297,Director_39,United States,"September 08, 2019",2018,G,92 min,Documentary
+s1298,Movie,Title_1298,Director_88,India,"July 16, 2019",2018,NR,118 min,Crime
+s1299,Movie,Title_1299,Director_149,United States,"September 28, 2019",2018,R,85 min,International
+s1300,Movie,Title_1300,Director_112,United States,"November 19, 2019",2018,TV-MA,120 min,Documentary
+s1301,Movie,Title_1301,Director_435,Turkey,"January 15, 2019",2018,TV-14,149 min,Stand-Up Comedy
+s1302,Movie,Title_1302,Director_3,United States,"May 12, 2019",2018,TV-14,83 min,Drama
+s1303,Movie,Title_1303,Director_102,United States,"February 14, 2019",2017,TV-14,132 min,Sci-Fi & Fantasy
+s1304,Movie,Title_1304,Director_394,Brazil,"August 01, 2019",2019,TV-14,89 min,Action & Adventure
+s1305,TV Show,Title_1305,Director_138,India,"June 14, 2019",2017,TV-14,3 Seasons,Comedy
+s1306,TV Show,Title_1306,Director_453,France,"March 12, 2019",2019,TV-14,7 Season,Reality TV
+s1307,TV Show,Title_1307,Director_83,United States,"July 14, 2019",2019,TV-MA,6 Seasons,Drama
+s1308,TV Show,Title_1308,Director_254,India,"May 04, 2019",2019,TV-PG,7 Seasons,Drama
+s1309,TV Show,Title_1309,Director_491,United States,"July 17, 2019",2017,R,7 Season,Horror
+s1310,TV Show,Title_1310,Director_425,United States,"January 25, 2019",2018,TV-14,4 Season,Crime
+s1311,TV Show,Title_1311,Director_390,United Kingdom,"August 10, 2019",2018,TV-MA,5 Seasons,Documentary
+s1312,TV Show,Title_1312,Director_359,United States,"April 09, 2019",2017,TV-14,2 Seasons,Comedy
+s1313,TV Show,Title_1313,Director_438,India,"February 23, 2019",2019,TV-14,3 Season,Thriller
+s1314,TV Show,Title_1314,Director_476,United States,"July 02, 2019",2017,TV-MA,5 Seasons,Thriller
+s1315,TV Show,Title_1315,Director_359,Canada,"January 13, 2019",2019,TV-MA,7 Seasons,Documentary
+s1316,TV Show,Title_1316,Director_156,United States,"January 17, 2019",2017,TV-14,7 Seasons,Reality TV
+s1317,TV Show,Title_1317,Director_94,United States,"July 08, 2019",2017,TV-14,6 Seasons,Comedy
+s1318,TV Show,Title_1318,Director_52,France,"May 16, 2019",2018,TV-14,5 Seasons,Drama
+s1319,TV Show,Title_1319,Director_350,Nigeria,"May 04, 2019",2019,TV-14,2 Seasons,Drama
+s1320,TV Show,Title_1320,Director_142,United States,"June 24, 2019",2017,TV-14,6 Season,Romance
+s1321,TV Show,Title_1321,Director_496,United States,"November 24, 2019",2019,TV-MA,2 Season,Action & Adventure
+s1322,TV Show,Title_1322,Director_243,United States,"February 03, 2019",2017,TV-14,6 Season,Crime
+s1323,TV Show,Title_1323,Director_389,United States,"July 18, 2019",2019,TV-MA,5 Seasons,Action & Adventure
+s1324,TV Show,Title_1324,Director_215,Brazil,"December 04, 2019",2019,TV-14,7 Season,Reality TV
+s1325,TV Show,Title_1325,Director_490,India,"October 09, 2019",2019,TV-MA,3 Season,Stand-Up Comedy
+s1326,TV Show,Title_1326,Director_385,Turkey,"July 16, 2019",2019,TV-MA,2 Season,Drama
+s1327,TV Show,Title_1327,Director_293,South Korea,"May 07, 2019",2017,TV-14,3 Season,Documentary
+s1328,TV Show,Title_1328,Director_113,United States,"September 15, 2019",2018,G,5 Season,Thriller
+s1329,TV Show,Title_1329,Director_328,United Kingdom,"January 18, 2019",2017,TV-MA,4 Season,Horror
+s1330,TV Show,Title_1330,Director_108,United States,"January 21, 2019",2019,TV-MA,4 Seasons,Stand-Up Comedy
+s1331,TV Show,Title_1331,Director_453,Canada,"June 11, 2019",2019,TV-PG,2 Seasons,Drama
+s1332,TV Show,Title_1332,Director_6,United States,"May 11, 2019",2018,PG,1 Seasons,Comedy
+s1333,TV Show,Title_1333,Director_353,Turkey,"January 18, 2019",2018,TV-MA,2 Seasons,Drama
+s1334,TV Show,Title_1334,Director_113,United States,"October 18, 2019",2018,TV-PG,4 Seasons,Stand-Up Comedy
+s1335,TV Show,Title_1335,Director_372,United Kingdom,"July 05, 2019",2018,PG-13,8 Season,Comedy
+s1336,TV Show,Title_1336,Director_91,Brazil,"March 15, 2019",2017,TV-MA,3 Seasons,Comedy
+s1337,TV Show,Title_1337,Director_91,Nigeria,"May 01, 2019",2018,TV-MA,5 Season,Action & Adventure
+s1338,TV Show,Title_1338,Director_497,United States,"July 08, 2019",2018,TV-MA,8 Seasons,Horror
+s1339,TV Show,Title_1339,Director_11,United Kingdom,"January 20, 2019",2017,R,2 Season,Drama
+s1340,TV Show,Title_1340,Director_138,South Korea,"January 05, 2019",2017,TV-PG,4 Seasons,Crime
+s1341,TV Show,Title_1341,Director_419,Canada,"January 26, 2019",2018,PG-13,2 Seasons,Stand-Up Comedy
+s1342,TV Show,Title_1342,Director_246,United States,"October 15, 2019",2017,TV-MA,3 Season,Animation
+s1343,TV Show,Title_1343,Director_53,United Kingdom,"September 04, 2019",2019,TV-MA,1 Seasons,Comedy
+s1344,TV Show,Title_1344,Director_219,India,"March 01, 2019",2018,PG-13,4 Season,Comedy
+s1345,TV Show,Title_1345,Director_57,France,"November 13, 2019",2017,TV-MA,2 Seasons,Drama
+s1346,TV Show,Title_1346,Director_474,Nigeria,"October 11, 2019",2017,TV-14,2 Season,Drama
+s1347,TV Show,Title_1347,Director_77,Canada,"September 11, 2019",2019,TV-MA,3 Seasons,Sci-Fi & Fantasy
+s1348,TV Show,Title_1348,Director_478,Canada,"February 09, 2019",2018,TV-MA,8 Seasons,Horror
+s1349,TV Show,Title_1349,Director_76,Japan,"January 28, 2019",2018,TV-MA,3 Seasons,Crime
+s1350,TV Show,Title_1350,Director_219,India,"August 27, 2019",2019,PG-13,2 Season,Drama
+s1351,TV Show,Title_1351,Director_254,United States,"March 25, 2019",2018,TV-Y7,7 Season,Comedy
+s1352,TV Show,Title_1352,Director_335,Turkey,"November 11, 2019",2017,TV-PG,3 Seasons,Documentary
+s1353,TV Show,Title_1353,Director_298,United Kingdom,"August 18, 2019",2019,TV-14,4 Season,Documentary
+s1354,TV Show,Title_1354,Director_2,United Kingdom,"December 08, 2019",2017,R,2 Season,Documentary
+s1355,TV Show,Title_1355,Director_185,United States,"March 04, 2019",2017,TV-PG,1 Seasons,Children & Family
+s1356,TV Show,Title_1356,Director_29,United States,"July 08, 2019",2019,PG,4 Seasons,Comedy
+s1357,TV Show,Title_1357,Director_218,Turkey,"July 24, 2019",2018,R,1 Seasons,Drama
+s1358,TV Show,Title_1358,Director_188,United States,"August 27, 2019",2017,TV-PG,3 Season,Drama
+s1359,TV Show,Title_1359,Director_72,United States,"July 05, 2019",2019,TV-PG,3 Seasons,Drama
+s1360,TV Show,Title_1360,Director_356,Nigeria,"December 11, 2019",2017,TV-14,8 Seasons,Action & Adventure
+s1361,TV Show,Title_1361,Director_6,United States,"January 20, 2019",2018,PG,3 Seasons,Comedy
+s1362,TV Show,Title_1362,Director_257,France,"September 23, 2019",2018,PG,5 Seasons,Crime
+s1363,Movie,Title_1363,Director_487,India,"February 17, 2020",2018,TV-MA,118 min,Horror
+s1364,Movie,Title_1364,Director_310,India,"July 06, 2020",2018,TV-MA,141 min,Romance
+s1365,Movie,Title_1365,Director_85,India,"November 13, 2020",2018,TV-14,118 min,Crime
+s1366,Movie,Title_1366,Director_186,Canada,"February 04, 2020",2020,TV-MA,79 min,Crime
+s1367,Movie,Title_1367,Director_34,United States,"March 18, 2020",2018,TV-MA,83 min,Romance
+s1368,Movie,Title_1368,Director_476,South Korea,"September 07, 2020",2018,TV-14,151 min,Thriller
+s1369,Movie,Title_1369,Director_24,United States,"January 19, 2020",2018,TV-PG,131 min,Comedy
+s1370,Movie,Title_1370,Director_491,Nigeria,"June 25, 2020",2019,TV-MA,106 min,Comedy
+s1371,Movie,Title_1371,Director_346,United States,"June 05, 2020",2018,TV-14,159 min,Action & Adventure
+s1372,Movie,Title_1372,Director_13,Brazil,"September 26, 2020",2020,TV-14,89 min,Comedy
+s1373,Movie,Title_1373,Director_78,India,"January 10, 2020",2020,PG,90 min,Crime
+s1374,Movie,Title_1374,Director_414,Mexico,"December 08, 2020",2020,TV-MA,97 min,Documentary
+s1375,Movie,Title_1375,Director_334,South Korea,"September 17, 2020",2020,TV-MA,147 min,Thriller
+s1376,Movie,Title_1376,Director_320,United States,"June 10, 2020",2019,PG-13,116 min,Stand-Up Comedy
+s1377,Movie,Title_1377,Director_311,Japan,"April 07, 2020",2018,R,148 min,Drama
+s1378,Movie,Title_1378,Director_74,United Kingdom,"February 26, 2020",2019,TV-Y7,71 min,International
+s1379,Movie,Title_1379,Director_233,Turkey,"February 16, 2020",2019,PG-13,82 min,Action & Adventure
+s1380,Movie,Title_1380,Director_46,United States,"October 12, 2020",2018,TV-MA,115 min,Drama
+s1381,Movie,Title_1381,Director_333,South Korea,"August 09, 2020",2018,TV-MA,126 min,Drama
+s1382,Movie,Title_1382,Director_206,Turkey,"June 28, 2020",2019,TV-14,106 min,Stand-Up Comedy
+s1383,Movie,Title_1383,Director_488,Brazil,"June 17, 2020",2019,TV-MA,149 min,Animation
+s1384,Movie,Title_1384,Director_318,France,"May 22, 2020",2020,TV-14,75 min,Documentary
+s1385,Movie,Title_1385,Director_437,South Korea,"September 01, 2020",2018,R,89 min,Drama
+s1386,Movie,Title_1386,Director_448,United States,"February 08, 2020",2019,TV-14,119 min,Comedy
+s1387,Movie,Title_1387,Director_56,United States,"September 27, 2020",2018,TV-14,129 min,Thriller
+s1388,Movie,Title_1388,Director_103,United States,"July 25, 2020",2019,NR,125 min,Drama
+s1389,Movie,Title_1389,Director_380,United States,"August 07, 2020",2019,TV-Y7,159 min,Comedy
+s1390,Movie,Title_1390,Director_110,India,"August 05, 2020",2019,TV-14,151 min,Drama
+s1391,Movie,Title_1391,Director_405,Italy,"January 26, 2020",2019,PG-13,116 min,Action & Adventure
+s1392,Movie,Title_1392,Director_217,United States,"January 25, 2020",2019,TV-MA,157 min,Reality TV
+s1393,Movie,Title_1393,Director_153,United States,"May 13, 2020",2020,TV-MA,80 min,Comedy
+s1394,Movie,Title_1394,Director_48,India,"May 06, 2020",2019,TV-MA,76 min,Documentary
+s1395,Movie,Title_1395,Director_244,South Korea,"June 14, 2020",2020,TV-MA,131 min,Comedy
+s1396,Movie,Title_1396,Director_200,United States,"June 23, 2020",2018,R,143 min,Horror
+s1397,Movie,Title_1397,Director_316,Brazil,"December 22, 2020",2018,TV-MA,144 min,Action & Adventure
+s1398,Movie,Title_1398,Director_8,Italy,"December 27, 2020",2018,G,110 min,Comedy
+s1399,Movie,Title_1399,Director_209,Australia,"June 04, 2020",2019,TV-14,156 min,Sci-Fi & Fantasy
+s1400,Movie,Title_1400,Director_328,United States,"March 21, 2020",2020,TV-14,127 min,Action & Adventure
+s1401,Movie,Title_1401,Director_397,United States,"July 23, 2020",2018,TV-G,139 min,Drama
+s1402,Movie,Title_1402,Director_490,United States,"April 22, 2020",2018,TV-MA,143 min,Thriller
+s1403,Movie,Title_1403,Director_359,India,"May 17, 2020",2019,TV-14,85 min,Documentary
+s1404,Movie,Title_1404,Director_219,India,"June 27, 2020",2020,TV-14,139 min,Thriller
+s1405,Movie,Title_1405,Director_91,United States,"August 14, 2020",2020,G,117 min,Reality TV
+s1406,Movie,Title_1406,Director_224,United Kingdom,"November 23, 2020",2020,TV-14,157 min,Thriller
+s1407,Movie,Title_1407,Director_46,Canada,"February 03, 2020",2020,G,83 min,Comedy
+s1408,Movie,Title_1408,Director_475,Australia,"December 25, 2020",2020,TV-MA,149 min,Drama
+s1409,Movie,Title_1409,Director_437,India,"January 22, 2020",2019,TV-PG,107 min,Drama
+s1410,Movie,Title_1410,Director_487,South Korea,"February 07, 2020",2018,TV-PG,130 min,Drama
+s1411,Movie,Title_1411,Director_4,South Korea,"November 23, 2020",2019,TV-14,120 min,Comedy
+s1412,Movie,Title_1412,Director_430,India,"November 09, 2020",2019,TV-MA,109 min,Romance
+s1413,Movie,Title_1413,Director_79,United States,"January 01, 2020",2019,PG,73 min,Horror
+s1414,Movie,Title_1414,Director_492,United Kingdom,"June 11, 2020",2020,R,91 min,Animation
+s1415,Movie,Title_1415,Director_202,United States,"April 20, 2020",2018,TV-G,152 min,Children & Family
+s1416,Movie,Title_1416,Director_207,United Kingdom,"November 13, 2020",2019,TV-MA,92 min,Crime
+s1417,Movie,Title_1417,Director_324,India,"March 17, 2020",2020,TV-MA,85 min,Action & Adventure
+s1418,Movie,Title_1418,Director_82,Germany,"May 27, 2020",2019,TV-PG,140 min,Romance
+s1419,Movie,Title_1419,Director_79,United States,"November 25, 2020",2018,TV-14,145 min,Drama
+s1420,Movie,Title_1420,Director_381,United Kingdom,"October 13, 2020",2020,TV-G,73 min,Thriller
+s1421,Movie,Title_1421,Director_335,India,"June 06, 2020",2018,TV-PG,100 min,Drama
+s1422,Movie,Title_1422,Director_338,United Kingdom,"July 25, 2020",2018,TV-MA,103 min,Comedy
+s1423,Movie,Title_1423,Director_57,Australia,"November 19, 2020",2019,TV-PG,83 min,Comedy
+s1424,Movie,Title_1424,Director_40,United States,"May 06, 2020",2019,TV-MA,81 min,Stand-Up Comedy
+s1425,Movie,Title_1425,Director_212,Brazil,"February 16, 2020",2018,TV-MA,72 min,Animation
+s1426,Movie,Title_1426,Director_325,Canada,"July 13, 2020",2019,TV-MA,110 min,Documentary
+s1427,Movie,Title_1427,Director_324,United States,"March 22, 2020",2020,TV-MA,142 min,Crime
+s1428,Movie,Title_1428,Director_308,United States,"June 16, 2020",2020,TV-14,148 min,Animation
+s1429,Movie,Title_1429,Director_16,United Kingdom,"February 07, 2020",2020,TV-MA,147 min,Drama
+s1430,Movie,Title_1430,Director_16,India,"June 04, 2020",2019,TV-MA,97 min,Drama
+s1431,Movie,Title_1431,Director_247,United States,"March 09, 2020",2018,R,105 min,Drama
+s1432,Movie,Title_1432,Director_224,United States,"May 15, 2020",2020,TV-PG,133 min,International
+s1433,Movie,Title_1433,Director_493,Australia,"April 22, 2020",2019,TV-MA,105 min,Stand-Up Comedy
+s1434,Movie,Title_1434,Director_489,South Korea,"March 26, 2020",2020,TV-PG,96 min,Drama
+s1435,Movie,Title_1435,Director_319,Mexico,"December 09, 2020",2018,TV-14,110 min,Documentary
+s1436,Movie,Title_1436,Director_231,India,"June 21, 2020",2018,TV-PG,78 min,Thriller
+s1437,Movie,Title_1437,Director_424,Nigeria,"July 10, 2020",2020,TV-MA,147 min,Sci-Fi & Fantasy
+s1438,Movie,Title_1438,Director_220,United Kingdom,"February 06, 2020",2018,TV-14,111 min,International
+s1439,Movie,Title_1439,Director_63,United States,"June 05, 2020",2018,TV-PG,110 min,Comedy
+s1440,Movie,Title_1440,Director_461,United States,"August 19, 2020",2018,TV-14,111 min,Comedy
+s1441,Movie,Title_1441,Director_288,India,"September 07, 2020",2019,TV-PG,83 min,Action & Adventure
+s1442,Movie,Title_1442,Director_458,Nigeria,"November 03, 2020",2020,PG-13,143 min,Horror
+s1443,Movie,Title_1443,Director_26,South Korea,"June 07, 2020",2019,TV-14,95 min,Documentary
+s1444,Movie,Title_1444,Director_308,Italy,"February 15, 2020",2019,TV-14,91 min,Action & Adventure
+s1445,Movie,Title_1445,Director_3,United States,"January 21, 2020",2019,TV-MA,143 min,Thriller
+s1446,Movie,Title_1446,Director_173,Germany,"September 17, 2020",2020,TV-14,75 min,Comedy
+s1447,Movie,Title_1447,Director_141,India,"July 24, 2020",2019,PG-13,108 min,Drama
+s1448,Movie,Title_1448,Director_25,India,"June 16, 2020",2019,TV-PG,148 min,Romance
+s1449,Movie,Title_1449,Director_481,Italy,"November 04, 2020",2020,TV-14,117 min,Comedy
+s1450,Movie,Title_1450,Director_442,United States,"March 04, 2020",2020,PG-13,111 min,Drama
+s1451,Movie,Title_1451,Director_418,United States,"December 26, 2020",2020,TV-MA,117 min,Horror
+s1452,Movie,Title_1452,Director_57,Australia,"May 26, 2020",2018,PG,75 min,Reality TV
+s1453,Movie,Title_1453,Director_139,United States,"October 26, 2020",2020,TV-14,118 min,Stand-Up Comedy
+s1454,Movie,Title_1454,Director_386,United States,"March 11, 2020",2020,TV-14,88 min,Drama
+s1455,Movie,Title_1455,Director_268,Turkey,"August 22, 2020",2020,TV-14,85 min,Sci-Fi & Fantasy
+s1456,Movie,Title_1456,Director_116,India,"May 11, 2020",2018,TV-14,131 min,Comedy
+s1457,TV Show,Title_1457,Director_377,United States,"September 27, 2020",2018,TV-MA,4 Seasons,Comedy
+s1458,TV Show,Title_1458,Director_198,United States,"April 01, 2020",2018,TV-14,4 Seasons,Horror
+s1459,TV Show,Title_1459,Director_160,United States,"September 17, 2020",2020,PG-13,6 Seasons,Documentary
+s1460,TV Show,Title_1460,Director_232,United States,"March 08, 2020",2020,TV-14,6 Season,Documentary
+s1461,TV Show,Title_1461,Director_488,South Korea,"May 14, 2020",2020,TV-MA,3 Seasons,Action & Adventure
+s1462,TV Show,Title_1462,Director_236,United States,"December 04, 2020",2018,PG,4 Season,Thriller
+s1463,TV Show,Title_1463,Director_44,India,"June 09, 2020",2019,TV-14,2 Seasons,Comedy
+s1464,TV Show,Title_1464,Director_190,United States,"September 11, 2020",2018,TV-14,1 Seasons,Documentary
+s1465,TV Show,Title_1465,Director_305,India,"April 10, 2020",2019,G,4 Seasons,Drama
+s1466,TV Show,Title_1466,Director_113,India,"November 02, 2020",2018,TV-14,4 Seasons,Action & Adventure
+s1467,TV Show,Title_1467,Director_452,United States,"February 18, 2020",2020,TV-MA,2 Season,Drama
+s1468,TV Show,Title_1468,Director_88,India,"April 24, 2020",2018,TV-14,5 Seasons,Horror
+s1469,TV Show,Title_1469,Director_465,United States,"December 01, 2020",2020,TV-PG,2 Season,Comedy
+s1470,TV Show,Title_1470,Director_36,Japan,"December 08, 2020",2018,PG,3 Season,Thriller
+s1471,TV Show,Title_1471,Director_11,Brazil,"January 22, 2020",2018,TV-MA,8 Seasons,Drama
+s1472,TV Show,Title_1472,Director_299,Mexico,"January 20, 2020",2018,TV-MA,6 Seasons,Reality TV
+s1473,TV Show,Title_1473,Director_269,United States,"January 19, 2020",2020,TV-MA,5 Seasons,Documentary
+s1474,TV Show,Title_1474,Director_377,United States,"May 26, 2020",2019,TV-MA,6 Seasons,Drama
+s1475,TV Show,Title_1475,Director_155,United States,"June 15, 2020",2020,TV-14,1 Seasons,Reality TV
+s1476,TV Show,Title_1476,Director_266,United Kingdom,"October 16, 2020",2020,TV-PG,2 Season,Comedy
+s1477,TV Show,Title_1477,Director_16,United States,"April 22, 2020",2018,TV-14,3 Season,Thriller
+s1478,TV Show,Title_1478,Director_489,France,"April 24, 2020",2019,TV-14,2 Season,Action & Adventure
+s1479,TV Show,Title_1479,Director_449,Turkey,"November 18, 2020",2020,PG,8 Seasons,Thriller
+s1480,TV Show,Title_1480,Director_142,Brazil,"June 13, 2020",2019,TV-14,7 Seasons,Drama
+s1481,TV Show,Title_1481,Director_291,United Kingdom,"October 04, 2020",2019,R,7 Seasons,Drama
+s1482,TV Show,Title_1482,Director_268,Turkey,"November 05, 2020",2019,TV-14,8 Seasons,Comedy
+s1483,TV Show,Title_1483,Director_21,France,"May 03, 2020",2018,TV-14,5 Season,Thriller
+s1484,TV Show,Title_1484,Director_428,United Kingdom,"May 01, 2020",2018,TV-MA,7 Season,Comedy
+s1485,TV Show,Title_1485,Director_366,United States,"September 22, 2020",2019,PG,3 Seasons,Drama
+s1486,TV Show,Title_1486,Director_478,Japan,"February 10, 2020",2019,TV-14,4 Season,Drama
+s1487,TV Show,Title_1487,Director_306,France,"July 04, 2020",2019,TV-14,5 Seasons,Comedy
+s1488,TV Show,Title_1488,Director_214,India,"October 05, 2020",2020,PG,4 Season,Drama
+s1489,TV Show,Title_1489,Director_449,United States,"November 15, 2020",2019,TV-MA,3 Season,Drama
+s1490,TV Show,Title_1490,Director_219,United Kingdom,"September 22, 2020",2019,R,6 Seasons,Drama
+s1491,TV Show,Title_1491,Director_72,India,"September 01, 2020",2020,TV-MA,7 Season,Documentary
+s1492,TV Show,Title_1492,Director_433,South Korea,"June 05, 2020",2019,TV-PG,5 Season,Sci-Fi & Fantasy
+s1493,TV Show,Title_1493,Director_139,France,"September 15, 2020",2020,TV-14,1 Season,Drama
+s1494,TV Show,Title_1494,Director_63,United Kingdom,"October 16, 2020",2020,PG-13,6 Seasons,Drama
+s1495,TV Show,Title_1495,Director_496,India,"December 07, 2020",2019,R,3 Seasons,Action & Adventure
+s1496,TV Show,Title_1496,Director_480,Brazil,"March 10, 2020",2018,TV-PG,5 Seasons,Drama
+s1497,TV Show,Title_1497,Director_62,Canada,"February 01, 2020",2020,TV-MA,3 Seasons,Crime
+s1498,TV Show,Title_1498,Director_63,United States,"September 15, 2020",2019,TV-14,7 Season,Drama
+s1499,TV Show,Title_1499,Director_316,Italy,"September 09, 2020",2018,PG-13,8 Seasons,Documentary
+s1500,TV Show,Title_1500,Director_380,Canada,"December 22, 2020",2020,TV-MA,4 Season,Documentary
+s1501,TV Show,Title_1501,Director_141,India,"November 04, 2020",2019,TV-MA,8 Season,Action & Adventure
+s1502,TV Show,Title_1502,Director_62,Spain,"July 05, 2020",2020,TV-14,1 Season,Documentary
+s1503,TV Show,Title_1503,Director_465,United Kingdom,"November 22, 2020",2019,TV-MA,8 Season,Documentary
+s1504,TV Show,Title_1504,Director_439,India,"May 01, 2020",2020,R,3 Season,International
+s1505,TV Show,Title_1505,Director_181,Brazil,"September 03, 2020",2020,TV-14,3 Seasons,Drama
+s1506,TV Show,Title_1506,Director_35,United States,"March 09, 2020",2020,R,5 Seasons,Horror
+s1507,TV Show,Title_1507,Director_166,Turkey,"March 19, 2020",2020,TV-PG,5 Season,Documentary
+s1508,TV Show,Title_1508,Director_376,United States,"July 03, 2020",2018,TV-PG,1 Season,International
+s1509,TV Show,Title_1509,Director_396,France,"November 16, 2020",2020,TV-14,6 Seasons,Comedy
+s1510,TV Show,Title_1510,Director_32,United States,"December 13, 2020",2020,PG,7 Seasons,Crime
+s1511,TV Show,Title_1511,Director_431,United States,"August 25, 2020",2018,R,6 Seasons,Comedy
+s1512,TV Show,Title_1512,Director_252,United States,"July 05, 2020",2019,R,4 Season,Stand-Up Comedy
+s1513,TV Show,Title_1513,Director_13,United States,"July 27, 2020",2020,R,4 Season,Horror
+s1514,TV Show,Title_1514,Director_291,United States,"March 01, 2020",2020,TV-MA,6 Seasons,International
+s1515,TV Show,Title_1515,Director_107,United States,"December 21, 2020",2020,R,8 Season,Animation
+s1516,TV Show,Title_1516,Director_225,India,"September 28, 2020",2019,TV-14,3 Seasons,Crime
+s1517,TV Show,Title_1517,Director_256,Mexico,"March 26, 2020",2018,TV-PG,5 Season,Thriller
+s1518,TV Show,Title_1518,Director_184,United Kingdom,"May 27, 2020",2018,TV-MA,5 Season,Drama
+s1519,TV Show,Title_1519,Director_478,United States,"September 19, 2020",2020,TV-MA,4 Seasons,Animation
+s1520,TV Show,Title_1520,Director_135,India,"December 04, 2020",2020,TV-MA,8 Seasons,Action & Adventure
+s1521,TV Show,Title_1521,Director_281,United States,"June 25, 2020",2020,TV-MA,1 Season,Drama
+s1522,Movie,Title_1522,Director_38,South Korea,"January 08, 2021",2021,G,133 min,Comedy
+s1523,Movie,Title_1523,Director_487,Japan,"January 12, 2021",2020,R,79 min,Sci-Fi & Fantasy
+s1524,Movie,Title_1524,Director_139,Canada,"September 16, 2021",2021,TV-MA,86 min,Thriller
+s1525,Movie,Title_1525,Director_245,United States,"November 12, 2021",2020,TV-14,125 min,Drama
+s1526,Movie,Title_1526,Director_274,Mexico,"January 01, 2021",2021,TV-MA,95 min,Romance
+s1527,Movie,Title_1527,Director_199,France,"September 16, 2021",2020,R,76 min,Animation
+s1528,Movie,Title_1528,Director_61,India,"March 04, 2021",2021,TV-14,126 min,Horror
+s1529,Movie,Title_1529,Director_119,India,"July 02, 2021",2019,TV-MA,100 min,Reality TV
+s1530,Movie,Title_1530,Director_411,United States,"September 19, 2021",2019,R,75 min,Action & Adventure
+s1531,Movie,Title_1531,Director_93,United States,"January 05, 2021",2020,TV-MA,126 min,Animation
+s1532,Movie,Title_1532,Director_311,United States,"April 10, 2021",2020,TV-PG,86 min,Drama
+s1533,Movie,Title_1533,Director_254,United States,"May 18, 2021",2021,TV-MA,96 min,Documentary
+s1534,Movie,Title_1534,Director_483,United States,"April 15, 2021",2020,G,108 min,Romance
+s1535,Movie,Title_1535,Director_358,United States,"September 09, 2021",2021,TV-PG,110 min,Romance
+s1536,Movie,Title_1536,Director_144,United States,"December 20, 2021",2019,PG,132 min,Action & Adventure
+s1537,Movie,Title_1537,Director_108,United States,"April 10, 2021",2019,TV-G,140 min,Drama
+s1538,Movie,Title_1538,Director_333,Spain,"April 23, 2021",2020,TV-MA,126 min,Documentary
+s1539,Movie,Title_1539,Director_197,United States,"May 09, 2021",2020,PG-13,145 min,International
+s1540,Movie,Title_1540,Director_10,United States,"October 13, 2021",2020,TV-MA,133 min,Crime
+s1541,Movie,Title_1541,Director_273,United States,"March 22, 2021",2019,TV-MA,125 min,Documentary
+s1542,Movie,Title_1542,Director_473,United States,"January 20, 2021",2020,R,113 min,Thriller
+s1543,Movie,Title_1543,Director_223,United Kingdom,"June 24, 2021",2020,R,149 min,Crime
+s1544,Movie,Title_1544,Director_488,Australia,"February 18, 2021",2021,R,119 min,Romance
+s1545,Movie,Title_1545,Director_294,United States,"September 15, 2021",2021,TV-Y7,124 min,Stand-Up Comedy
+s1546,Movie,Title_1546,Director_68,United Kingdom,"July 15, 2021",2019,TV-MA,100 min,Action & Adventure
+s1547,Movie,Title_1547,Director_152,France,"April 25, 2021",2020,TV-MA,139 min,Comedy
+s1548,Movie,Title_1548,Director_401,United States,"May 22, 2021",2021,TV-MA,102 min,Action & Adventure
+s1549,Movie,Title_1549,Director_429,Canada,"October 22, 2021",2020,TV-MA,111 min,Crime
+s1550,Movie,Title_1550,Director_495,India,"January 15, 2021",2020,TV-MA,74 min,Animation
+s1551,Movie,Title_1551,Director_142,Germany,"January 19, 2021",2021,TV-MA,80 min,Documentary
+s1552,Movie,Title_1552,Director_133,Nigeria,"May 25, 2021",2020,TV-14,105 min,Action & Adventure
+s1553,Movie,Title_1553,Director_120,Canada,"October 21, 2021",2019,TV-MA,76 min,Drama
+s1554,Movie,Title_1554,Director_22,United States,"August 19, 2021",2021,TV-14,110 min,Thriller
+s1555,Movie,Title_1555,Director_348,United States,"May 09, 2021",2020,R,72 min,Horror
+s1556,Movie,Title_1556,Director_228,United States,"February 03, 2021",2019,TV-MA,134 min,Action & Adventure
+s1557,Movie,Title_1557,Director_213,United States,"June 27, 2021",2019,TV-14,157 min,Action & Adventure
+s1558,Movie,Title_1558,Director_172,Mexico,"June 20, 2021",2020,TV-MA,116 min,Thriller
+s1559,Movie,Title_1559,Director_83,India,"May 20, 2021",2020,NR,73 min,Sci-Fi & Fantasy
+s1560,Movie,Title_1560,Director_109,Australia,"January 04, 2021",2020,G,147 min,Drama
+s1561,Movie,Title_1561,Director_482,South Korea,"October 23, 2021",2019,TV-14,114 min,Action & Adventure
+s1562,Movie,Title_1562,Director_41,United Kingdom,"March 13, 2021",2019,TV-PG,153 min,Documentary
+s1563,Movie,Title_1563,Director_376,Italy,"October 21, 2021",2020,TV-PG,140 min,International
+s1564,Movie,Title_1564,Director_338,United States,"January 20, 2021",2021,PG,130 min,Action & Adventure
+s1565,Movie,Title_1565,Director_169,United States,"October 10, 2021",2019,TV-MA,101 min,Action & Adventure
+s1566,Movie,Title_1566,Director_355,Turkey,"June 24, 2021",2019,TV-MA,84 min,Crime
+s1567,Movie,Title_1567,Director_259,Nigeria,"February 12, 2021",2019,TV-14,141 min,Documentary
+s1568,Movie,Title_1568,Director_118,France,"August 26, 2021",2021,TV-PG,123 min,Sci-Fi & Fantasy
+s1569,Movie,Title_1569,Director_346,Italy,"April 25, 2021",2021,G,122 min,Crime
+s1570,Movie,Title_1570,Director_42,Canada,"June 11, 2021",2020,PG-13,85 min,Thriller
+s1571,Movie,Title_1571,Director_461,Italy,"November 25, 2021",2019,TV-PG,95 min,Documentary
+s1572,Movie,Title_1572,Director_365,United States,"May 25, 2021",2020,TV-MA,140 min,Animation
+s1573,Movie,Title_1573,Director_86,United States,"July 01, 2021",2019,TV-MA,158 min,Romance
+s1574,Movie,Title_1574,Director_206,Mexico,"July 12, 2021",2021,G,86 min,Drama
+s1575,Movie,Title_1575,Director_316,Japan,"June 19, 2021",2019,TV-MA,147 min,Action & Adventure
+s1576,Movie,Title_1576,Director_323,United States,"June 15, 2021",2020,R,122 min,Children & Family
+s1577,Movie,Title_1577,Director_371,India,"December 05, 2021",2021,R,93 min,Romance
+s1578,Movie,Title_1578,Director_190,Australia,"January 19, 2021",2021,TV-MA,145 min,Sci-Fi & Fantasy
+s1579,Movie,Title_1579,Director_144,India,"September 24, 2021",2019,TV-14,145 min,Thriller
+s1580,Movie,Title_1580,Director_261,India,"September 17, 2021",2020,TV-MA,144 min,Comedy
+s1581,Movie,Title_1581,Director_221,India,"March 02, 2021",2021,R,96 min,Comedy
+s1582,Movie,Title_1582,Director_61,Mexico,"June 10, 2021",2020,TV-14,91 min,Comedy
+s1583,Movie,Title_1583,Director_386,India,"May 09, 2021",2019,PG,147 min,Comedy
+s1584,Movie,Title_1584,Director_387,France,"April 18, 2021",2019,TV-MA,135 min,Stand-Up Comedy
+s1585,Movie,Title_1585,Director_4,Brazil,"September 18, 2021",2020,NR,94 min,Drama
+s1586,Movie,Title_1586,Director_267,United States,"October 14, 2021",2019,TV-MA,126 min,Crime
+s1587,Movie,Title_1587,Director_228,United States,"December 28, 2021",2020,TV-MA,85 min,Crime
+s1588,Movie,Title_1588,Director_60,United States,"May 24, 2021",2020,TV-MA,155 min,Action & Adventure
+s1589,Movie,Title_1589,Director_260,Japan,"February 11, 2021",2020,TV-MA,90 min,Crime
+s1590,Movie,Title_1590,Director_162,Canada,"February 23, 2021",2019,TV-14,158 min,Comedy
+s1591,Movie,Title_1591,Director_339,Australia,"June 07, 2021",2021,PG-13,141 min,Documentary
+s1592,Movie,Title_1592,Director_447,Canada,"March 19, 2021",2019,TV-MA,118 min,Drama
+s1593,Movie,Title_1593,Director_145,United States,"March 24, 2021",2019,TV-MA,133 min,Horror
+s1594,Movie,Title_1594,Director_2,Mexico,"December 24, 2021",2020,NR,97 min,Drama
+s1595,Movie,Title_1595,Director_353,United Kingdom,"March 02, 2021",2020,TV-MA,123 min,Drama
+s1596,Movie,Title_1596,Director_337,Canada,"June 16, 2021",2019,TV-MA,137 min,Thriller
+s1597,Movie,Title_1597,Director_408,Germany,"November 16, 2021",2021,PG,132 min,Animation
+s1598,Movie,Title_1598,Director_494,United States,"February 08, 2021",2020,TV-14,84 min,Documentary
+s1599,Movie,Title_1599,Director_238,India,"July 04, 2021",2020,TV-MA,92 min,Documentary
+s1600,Movie,Title_1600,Director_431,United States,"March 25, 2021",2020,TV-14,131 min,Thriller
+s1601,Movie,Title_1601,Director_456,France,"May 17, 2021",2020,TV-MA,97 min,Thriller
+s1602,Movie,Title_1602,Director_415,South Korea,"June 14, 2021",2020,TV-MA,120 min,Drama
+s1603,Movie,Title_1603,Director_174,United States,"August 24, 2021",2021,TV-MA,98 min,Documentary
+s1604,Movie,Title_1604,Director_106,United States,"October 06, 2021",2021,TV-14,138 min,Crime
+s1605,Movie,Title_1605,Director_11,Turkey,"March 20, 2021",2021,TV-PG,139 min,Drama
+s1606,Movie,Title_1606,Director_33,India,"June 12, 2021",2021,PG-13,140 min,Drama
+s1607,Movie,Title_1607,Director_203,United States,"March 27, 2021",2021,TV-14,138 min,Drama
+s1608,Movie,Title_1608,Director_284,Spain,"June 14, 2021",2021,G,97 min,Comedy
+s1609,Movie,Title_1609,Director_204,United States,"September 04, 2021",2020,PG-13,134 min,Comedy
+s1610,Movie,Title_1610,Director_127,United States,"November 25, 2021",2019,TV-MA,158 min,Drama
+s1611,TV Show,Title_1611,Director_449,United States,"November 13, 2021",2020,PG-13,3 Seasons,Comedy
+s1612,TV Show,Title_1612,Director_381,United States,"December 25, 2021",2021,TV-14,7 Season,Animation
+s1613,TV Show,Title_1613,Director_218,United States,"July 07, 2021",2021,R,5 Seasons,Thriller
+s1614,TV Show,Title_1614,Director_220,United States,"February 09, 2021",2019,TV-14,8 Season,Romance
+s1615,TV Show,Title_1615,Director_255,India,"May 23, 2021",2021,TV-MA,4 Season,Comedy
+s1616,TV Show,Title_1616,Director_13,India,"February 15, 2021",2020,TV-14,4 Seasons,Documentary
+s1617,TV Show,Title_1617,Director_415,India,"February 21, 2021",2021,TV-14,5 Season,Romance
+s1618,TV Show,Title_1618,Director_207,United States,"August 19, 2021",2021,TV-MA,4 Season,Reality TV
+s1619,TV Show,Title_1619,Director_160,United Kingdom,"April 02, 2021",2021,PG-13,8 Season,Crime
+s1620,TV Show,Title_1620,Director_138,United States,"October 20, 2021",2021,TV-14,7 Seasons,Comedy
+s1621,TV Show,Title_1621,Director_363,United Kingdom,"August 11, 2021",2020,TV-14,4 Season,Drama
+s1622,TV Show,Title_1622,Director_193,Mexico,"February 04, 2021",2019,TV-Y7,7 Seasons,Action & Adventure
+s1623,TV Show,Title_1623,Director_59,United States,"March 07, 2021",2019,R,8 Seasons,Romance
+s1624,TV Show,Title_1624,Director_281,India,"September 16, 2021",2020,TV-PG,3 Seasons,Sci-Fi & Fantasy
+s1625,TV Show,Title_1625,Director_315,United States,"May 24, 2021",2020,TV-14,5 Seasons,Documentary
+s1626,TV Show,Title_1626,Director_129,United States,"November 07, 2021",2020,TV-MA,6 Seasons,Action & Adventure
+s1627,TV Show,Title_1627,Director_367,Australia,"December 28, 2021",2020,G,3 Season,Documentary
+s1628,TV Show,Title_1628,Director_103,India,"February 01, 2021",2021,TV-MA,5 Seasons,Drama
+s1629,TV Show,Title_1629,Director_326,India,"October 15, 2021",2021,TV-MA,3 Season,Drama
+s1630,TV Show,Title_1630,Director_445,United States,"April 09, 2021",2020,TV-MA,5 Seasons,Sci-Fi & Fantasy
+s1631,TV Show,Title_1631,Director_79,United States,"July 09, 2021",2019,TV-PG,4 Season,Action & Adventure
+s1632,TV Show,Title_1632,Director_396,United States,"February 05, 2021",2021,TV-MA,7 Season,Romance
+s1633,TV Show,Title_1633,Director_2,Turkey,"October 22, 2021",2019,R,8 Season,Thriller
+s1634,TV Show,Title_1634,Director_1,United States,"March 05, 2021",2020,PG-13,3 Seasons,Reality TV
+s1635,TV Show,Title_1635,Director_257,Turkey,"August 14, 2021",2019,TV-MA,8 Season,Drama
+s1636,TV Show,Title_1636,Director_268,India,"December 16, 2021",2020,PG-13,6 Season,Comedy
+s1637,TV Show,Title_1637,Director_431,Mexico,"March 21, 2021",2020,PG-13,5 Seasons,Action & Adventure
+s1638,TV Show,Title_1638,Director_92,India,"November 04, 2021",2019,PG-13,7 Seasons,Action & Adventure
+s1639,TV Show,Title_1639,Director_287,Germany,"June 24, 2021",2019,PG-13,7 Season,Animation
+s1640,TV Show,Title_1640,Director_100,United States,"January 07, 2021",2019,R,8 Season,Documentary
+s1641,TV Show,Title_1641,Director_18,United States,"May 17, 2021",2021,G,1 Seasons,Action & Adventure
+s1642,TV Show,Title_1642,Director_30,India,"December 23, 2021",2021,TV-MA,5 Season,Comedy
+s1643,TV Show,Title_1643,Director_243,Mexico,"October 21, 2021",2021,G,8 Seasons,Crime
+s1644,TV Show,Title_1644,Director_366,Japan,"January 12, 2021",2019,PG-13,1 Seasons,Animation
+s1645,TV Show,Title_1645,Director_327,United States,"February 14, 2021",2021,PG,2 Season,Horror
+s1646,TV Show,Title_1646,Director_345,United States,"April 21, 2021",2020,TV-14,1 Season,Drama
+s1647,TV Show,Title_1647,Director_207,United States,"December 12, 2021",2020,TV-G,1 Seasons,Sci-Fi & Fantasy
+s1648,TV Show,Title_1648,Director_228,France,"September 05, 2021",2019,TV-MA,5 Season,Crime
+s1649,TV Show,Title_1649,Director_288,United States,"March 21, 2021",2020,TV-14,1 Season,Comedy
+s1650,TV Show,Title_1650,Director_471,India,"February 19, 2021",2019,PG-13,8 Season,Drama
+s1651,TV Show,Title_1651,Director_112,United States,"November 01, 2021",2021,TV-14,3 Seasons,Drama
+s1652,TV Show,Title_1652,Director_378,United States,"April 10, 2021",2019,R,4 Seasons,Documentary
+s1653,TV Show,Title_1653,Director_428,India,"May 05, 2021",2019,TV-MA,6 Seasons,Comedy
+s1654,TV Show,Title_1654,Director_251,United States,"May 23, 2021",2020,TV-G,8 Season,Comedy
+s1655,TV Show,Title_1655,Director_428,United States,"August 27, 2021",2021,TV-PG,3 Season,Action & Adventure
+s1656,TV Show,Title_1656,Director_350,United Kingdom,"December 14, 2021",2020,TV-MA,6 Seasons,Documentary
+s1657,TV Show,Title_1657,Director_396,France,"December 26, 2021",2019,TV-14,5 Season,Drama
+s1658,TV Show,Title_1658,Director_240,India,"February 17, 2021",2021,TV-MA,3 Seasons,Comedy
+s1659,TV Show,Title_1659,Director_446,United Kingdom,"January 11, 2021",2019,TV-PG,2 Seasons,Comedy
+s1660,TV Show,Title_1660,Director_240,India,"February 06, 2021",2021,TV-14,6 Season,Drama
+s1661,TV Show,Title_1661,Director_243,United States,"August 19, 2021",2019,PG-13,7 Seasons,Drama
+s1662,TV Show,Title_1662,Director_476,India,"November 13, 2021",2019,TV-14,5 Season,Comedy
+s1663,TV Show,Title_1663,Director_206,Brazil,"July 14, 2021",2021,TV-14,5 Seasons,Romance
+s1664,TV Show,Title_1664,Director_291,India,"October 23, 2021",2019,G,4 Seasons,Drama
+s1665,TV Show,Title_1665,Director_235,United States,"February 10, 2021",2020,NR,3 Seasons,Drama
+s1666,TV Show,Title_1666,Director_121,United States,"March 10, 2021",2019,TV-MA,5 Season,Drama
+s1667,TV Show,Title_1667,Director_82,Japan,"September 28, 2021",2020,TV-MA,6 Season,Documentary
+s1668,TV Show,Title_1668,Director_362,United Kingdom,"April 16, 2021",2019,TV-14,7 Seasons,Drama
+s1669,TV Show,Title_1669,Director_420,United States,"March 13, 2021",2021,TV-MA,6 Seasons,Romance
+s1670,TV Show,Title_1670,Director_497,India,"February 12, 2021",2021,TV-14,8 Seasons,Romance
+s1671,TV Show,Title_1671,Director_422,Mexico,"April 12, 2021",2019,TV-MA,6 Season,Drama
+s1672,TV Show,Title_1672,Director_23,Japan,"November 08, 2021",2019,G,3 Seasons,Thriller
+s1673,TV Show,Title_1673,Director_199,United States,"March 14, 2021",2021,TV-14,3 Season,Comedy
+s1674,TV Show,Title_1674,Director_265,United States,"July 06, 2021",2019,NR,3 Season,Crime
+s1675,TV Show,Title_1675,Director_7,United States,"February 21, 2021",2019,R,7 Seasons,Documentary
+s1676,TV Show,Title_1676,Director_344,United Kingdom,"August 01, 2021",2020,TV-14,8 Seasons,Comedy
+s1677,TV Show,Title_1677,Director_411,United States,"December 21, 2021",2020,TV-14,2 Seasons,Documentary
+s1678,TV Show,Title_1678,Director_218,South Korea,"September 12, 2021",2021,R,2 Seasons,Action & Adventure
+s1679,TV Show,Title_1679,Director_417,Mexico,"January 11, 2021",2021,TV-MA,5 Season,Romance
